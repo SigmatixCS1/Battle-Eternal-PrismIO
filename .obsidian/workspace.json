@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "574546b1fbf7a50f",
+    "type": "split",
+    "children": [
+      {
+        "id": "99b756265013a7bb",
+        "type": "tabs",
+        "dimension": 50.317258883248726,
+        "children": [
+          {
+            "id": "f6bb3d8e702b2ab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Furies — Tier-Level Synopsis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Furies — Tier-Level Synopsis"
+            }
+          },
+          {
+            "id": "b10c43cddcfc439b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "janglers_icp_revised.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "janglers_icp_revised"
+            }
+          },
+          {
+            "id": "a8adcba8a87e5487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structural Axis Map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Structural Axis Map"
+            }
+          },
+          {
+            "id": "c7f73fab85e1b2da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Furies — Tier-Level Synopsis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Furies — Tier-Level Synopsis"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "2f5eec9b473bfde1",
+        "type": "tabs",
+        "dimension": 49.68274111675127,
+        "children": [
+          {
+            "id": "f0e27728bf2a8d15",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c2e097ef0ecc74a",
+    "type": "split",
+    "children": [
+      {
+        "id": "794783bdc752e2dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68cd4164307cff80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "12aeff77971d2cb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a7ec0b5cee9d5288",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b0e51caa2da31a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a851c68ea780628",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6656500a957ae91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Structural Axis Map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Structural Axis Map"
+            }
+          },
+          {
+            "id": "d99970b81925eb80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Structural Axis Map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Structural Axis Map"
+            }
+          },
+          {
+            "id": "1e8f9455d62b97b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9deed0f81984dd3c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "65d09056cfa64352",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Structural Axis Map.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Structural Axis Map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a8adcba8a87e5487",
+  "lastOpenFiles": [
+    "janglers_icp_revised.md",
+    "Structural Axis Map.md",
+    "battle-eternal-character-architect/references/kaelen-icp.md",
+    "battle-eternal-character-architect/references/elias-icp.md",
+    "battle-eternal-character-architect/references/janglers-icp.md",
+    "battle-eternal-character-architect/references/nyx-icp.md",
+    "battle-eternal-character-architect/references/thorne-icp.md",
+    "battle-eternal-character-architect/references/finch-icp.md",
+    "battle-eternal-character-architect/references/leone-icp.md",
+    "battle-eternal-character-architect/references/darius-icp.md",
+    "battle-eternal-character-architect/references/riven-icp.md",
+    "battle-eternal-character-architect/references/selene-icp.md",
+    "Scenes/selene_train_encounters.md",
+    "battle-eternal-character-architect/references/sigmatix-icp.md",
+    "battle-eternal-character-architect/references/elara-icp.md",
+    "battle-eternal-character-architect/references/spencer-icp.md",
+    "battle-eternal-character-architect/references/grant-icp.md",
+    "battle-eternal-character-architect/references/castor-icp.md",
+    "battle-eternal-character-architect/references/crystalis-icp.md",
+    "ALEXANDER_DEMARCO_RIVALRY CONTRACT.md",
+    "The Furies — Tier-Level Synopsis.md",
+    "battle-eternal-character-architect/references/alexander-icp-gold-standard.md",
+    "Scenes/01_janglers_introduction.md",
+    "battle-eternal-character-architect/references/demarco-icp.md",
+    "Scenes",
+    "elara_vault_profile.md",
+    "nyx_icp_revised.md",
+    "battle-eternal-character-architect/references",
+    "battle-eternal-character-architect"
+  ]
+}
