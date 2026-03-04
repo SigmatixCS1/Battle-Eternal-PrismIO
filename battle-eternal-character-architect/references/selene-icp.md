@@ -2,6 +2,7 @@
 This file contains the completed Modules 1-6 for Selene, following the
 canonical output format established by the Alexander gold standard.
 
+![[file_0000000086d071fd92fed488bdb72290-photo_2026-02-28_10-31-04.jpg]]
 ## Module 1: Identity and System Role
 
 ### Core Character System Function

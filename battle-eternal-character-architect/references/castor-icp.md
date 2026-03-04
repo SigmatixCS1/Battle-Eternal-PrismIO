@@ -2,6 +2,7 @@
 This file contains the completed Modules 1-3 for Castor, following the
 canonical output format established by the Alexander gold standard.
 
+![[file_00000000dcf4722f888434eb7c9b9399-photo_2026-02-02_22-55-15.jpg]]
 ## Module 1: Identity and System Role
 
 ### Core Character System Function

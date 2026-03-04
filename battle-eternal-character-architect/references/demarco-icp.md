@@ -37,6 +37,7 @@ tags:
 This file contains the completed Modules 1-3 for DeMarco, following the
 canonical output format established by the Alexander gold standard.
 
+![[file_00000000a7dc722f8b262c370a265dbe-photo_2026-01-31_16-20-06.jpg]]
 # Module 1 Feedback — Identity & System Role
 
 Your foundation is already strong.  

@@ -4,6 +4,7 @@
 
 ---
 
+![[csalchemsy_a_muscular_man_with_white_hair_with_black_streaks__725bfe70-6117-43e5-b779-2547dbe976d8_0.png]]
 ## The Reapers' Architects: Group Architecture
 
 ### Premise

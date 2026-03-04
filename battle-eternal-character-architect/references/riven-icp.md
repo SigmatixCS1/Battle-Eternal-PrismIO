@@ -4,6 +4,7 @@
 
 ---
 
+![[file_000000005c3c71f886aadacd2ec5f138-Riven_Takar_The_Divine_Playwright_of_Saint_Radian__14.png]]
 ## Module 1: Identity and System Role
 
 ### Core Character System Function

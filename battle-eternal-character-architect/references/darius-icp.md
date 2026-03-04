@@ -32,6 +32,7 @@ tags:
 ---
 # Darius Coen — Ideal Character Profile (ICP)
 
+![[file_00000000e8a471fd886f672c294f7425-Here_are_several_Battle_Eternal_cyberpunk_scene_pr_24.png]]
 ## The Reapers' Architects: Group Architecture
 
 ### Premise

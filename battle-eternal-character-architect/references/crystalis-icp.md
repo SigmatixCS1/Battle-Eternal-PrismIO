@@ -2,6 +2,7 @@
 This file contains the completed Modules 1-3 for Crystalis, following the
 canonical output format established by the Alexander gold standard.
 
+![[file_00000000a0d071f5819a5053525a8099-photo_2026-01-21_20-26-28.jpg]]
 ## Module 1: Identity and System Role
 
 ### Core Character System Function

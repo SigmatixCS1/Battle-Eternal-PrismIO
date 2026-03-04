@@ -37,6 +37,7 @@ tags:
 
 ---
 
+![[file_00000000f59871fda44a41d7234c18e0-Anime_illustration_of_Professor_Nyx_a_haggard_midd_3.png]]
 ## Module 1: Identity and System Role
 
 ### Core Character System Function

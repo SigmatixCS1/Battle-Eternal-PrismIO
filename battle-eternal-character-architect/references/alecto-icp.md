@@ -6,6 +6,7 @@
 
 ---
 
+![[csalchemsy_Anime_illustration_of_the_Fury_Alecto_reimagined_i_f79a3db1-9065-4d02-b88b-af17f8f6cd9f_2.png]]
 ## Module 1: Identity and System Role
 
 ### Core Character System Function

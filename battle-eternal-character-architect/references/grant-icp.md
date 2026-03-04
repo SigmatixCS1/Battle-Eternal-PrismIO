@@ -32,6 +32,7 @@ tags:
 
 ---
 
+![[photo_2026-03-04_09-50-20.jpg]]
 ## Module 1: Identity and System Role
 
 ### Core Character System Function

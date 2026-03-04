@@ -4,6 +4,7 @@
 
 ---
 
+![[file_0000000026dc71fdb9329a7e2028520f-photo_2026-02-28_10-17-28.jpg]]
 ## Module 1: Identity and System Role
 
 ### Core Character System Function

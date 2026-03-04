@@ -4,6 +4,8 @@
 
 ---
 
+![[file_000000006e1871f88e4d80dbe88665c8-Anime_illustration_of_Cassian_Thorne_age_late_40s__26.png]]
+
 ## Module 1: Identity and System Role
 
 ### Core Character System Function

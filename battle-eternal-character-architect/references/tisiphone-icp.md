@@ -5,6 +5,7 @@
 
 ---
 
+![[csalchemsy_Anime_illustration_of_the_Fury_Tisiphone_reimagine_e12e3258-7cd9-4e17-974e-1b0c6efa1304_0.png]]
 ## Module 1: Identity and System Role
 
 ### Core Character System Function

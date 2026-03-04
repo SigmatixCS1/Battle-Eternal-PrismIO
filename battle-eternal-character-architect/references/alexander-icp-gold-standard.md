@@ -31,6 +31,7 @@ tags:
 This file contains the completed Modules 1-2 for Alexander, serving as the
 canonical output format and depth benchmark for all other character ICP sessions.
 
+![[file_0000000083cc71f5b698256c4451a47e-photo_2026-02-28_07-37-26.jpg]]
 ## Module 1: Identity and System Role
 
 ### Core Character System Function

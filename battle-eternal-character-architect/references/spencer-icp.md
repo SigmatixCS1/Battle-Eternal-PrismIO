@@ -29,6 +29,7 @@ tags:
 This file contains the completed Modules 1-6 for Spencer Kordell, following the
 canonical output format established by the Alexander gold standard.
 
+![[file_00000000e8b071fda8f0397941c83a79-2026-02-28_08-34.png]]
 ## Module 1: Identity and System Role
 
 ### Core Character System Function

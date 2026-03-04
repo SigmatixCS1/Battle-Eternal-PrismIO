@@ -5,6 +5,7 @@
 
 ---
 
+![[csalchemsy_Anime_illustration_of_the_Fury_Megaera_reimagined__76fdbe8c-7a39-44ff-8954-7672b6488a33_0.png]]
 ## Module 1: Identity and System Role
 
 ### Core Character System Function

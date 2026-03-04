@@ -36,6 +36,7 @@ tags:
 
 ---
 
+![[file_00000000ef2871f8b8afc74db03630bc-Anime_illustration_of_Alistair_Finch_stern_60-year_9.png]]
 ## Module 1: Identity and System Role
 
 ### Core Character System Function

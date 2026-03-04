@@ -6,7 +6,7 @@
       {
         "id": "99b756265013a7bb",
         "type": "tabs",
-        "dimension": 50.317258883248726,
+        "dimension": 37.37309644670051,
         "children": [
           {
             "id": "f6bb3d8e702b2ab9",
@@ -42,12 +42,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structural Axis Map.md",
+                "file": "battle-eternal-character-architect/references/castor-icp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structural Axis Map"
+              "title": "castor-icp"
+            }
+          },
+          {
+            "id": "dcd76b1b3405c933",
+            "type": "leaf",
+            "state": {
+              "type": "smart-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
             }
           },
           {
@@ -65,21 +75,25 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "2f5eec9b473bfde1",
         "type": "tabs",
-        "dimension": 49.68274111675127,
+        "dimension": 62.6269035532995,
         "children": [
           {
             "id": "f0e27728bf2a8d15",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "The Furies — Tier-Level Synopsis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Furies — Tier-Level Synopsis"
             }
           }
         ]
@@ -155,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structural Axis Map.md",
+                "file": "battle-eternal-character-architect/references/janglers-icp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +179,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Structural Axis Map"
+              "title": "Backlinks for janglers-icp"
             }
           },
           {
@@ -174,12 +188,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structural Axis Map.md",
+                "file": "battle-eternal-character-architect/references/janglers-icp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Structural Axis Map"
+              "title": "Outgoing links from janglers-icp"
             }
           },
           {
@@ -217,21 +231,63 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structural Axis Map.md",
+                "file": "battle-eternal-character-architect/references/janglers-icp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Structural Axis Map"
+              "title": "Outline of janglers-icp"
+            }
+          },
+          {
+            "id": "67b369307c30ff5f",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "4df64dbbe2f5f8e3",
+            "type": "leaf",
+            "state": {
+              "type": "example-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Chat View"
+            }
+          },
+          {
+            "id": "5e13ad7686f27f0f",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {
+                "file": "Chats/New Chat.md"
+              },
+              "icon": "message-square",
+              "title": "New Chat"
+            }
+          },
+          {
+            "id": "0fe98fa322ce257f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,38 +297,62 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "copilot:Open Copilot Chat": false,
+      "smart-second-brain:Open S2B Chat": false,
+      "ai_llm:Local LLM Chat": false,
+      "media-extended:Open external media": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "a8adcba8a87e5487",
+  "active": "f0e27728bf2a8d15",
   "lastOpenFiles": [
-    "janglers_icp_revised.md",
-    "Structural Axis Map.md",
-    "battle-eternal-character-architect/references/kaelen-icp.md",
-    "battle-eternal-character-architect/references/elias-icp.md",
-    "battle-eternal-character-architect/references/janglers-icp.md",
-    "battle-eternal-character-architect/references/nyx-icp.md",
-    "battle-eternal-character-architect/references/thorne-icp.md",
-    "battle-eternal-character-architect/references/finch-icp.md",
-    "battle-eternal-character-architect/references/leone-icp.md",
-    "battle-eternal-character-architect/references/darius-icp.md",
-    "battle-eternal-character-architect/references/riven-icp.md",
-    "battle-eternal-character-architect/references/selene-icp.md",
-    "Scenes/selene_train_encounters.md",
-    "battle-eternal-character-architect/references/sigmatix-icp.md",
-    "battle-eternal-character-architect/references/elara-icp.md",
-    "battle-eternal-character-architect/references/spencer-icp.md",
-    "battle-eternal-character-architect/references/grant-icp.md",
-    "battle-eternal-character-architect/references/castor-icp.md",
-    "battle-eternal-character-architect/references/crystalis-icp.md",
     "ALEXANDER_DEMARCO_RIVALRY CONTRACT.md",
-    "The Furies — Tier-Level Synopsis.md",
+    "battle-eternal-character-architect/references/janglers-icp.md",
+    "janglers_icp_revised.md",
+    "media/csalchemsy_Anime_illustration_of_a_high-ranking_Narrative_Com_b0328ec6-bc62-485f-af6f-a15cccccf648_0.png",
+    "media/csalchemsy_Anime_illustration_of_a_high-ranking_Narrative_Com_b7da2397-113f-4000-a725-062887f287bb_2.png",
+    "media/csalchemsy_Anime_illustration_of_a_high-ranking_Narrative_Com_56a55179-16d5-47a1-aaa7-50277e59aee1_0.png",
+    "battle-eternal-character-architect/references/tisiphone-icp.md",
+    "media/csalchemsy_Anime_illustration_of_the_Fury_Tisiphone_reimagine_e12e3258-7cd9-4e17-974e-1b0c6efa1304_0.png",
+    "battle-eternal-character-architect/references/megaera-icp.md",
+    "media/csalchemsy_Anime_illustration_of_the_Fury_Megaera_reimagined__76fdbe8c-7a39-44ff-8954-7672b6488a33_0.png",
+    "media/csalchemsy_Anime_illustration_of_the_Fury_Megaera_reimagined__9696d3a3-3efb-48b4-9d42-633c8d6cfb97_1 1.png",
+    "battle-eternal-character-architect/references/alecto-icp.md",
+    "media/csalchemsy_Anime_illustration_of_the_Fury_Alecto_reimagined_i_f79a3db1-9065-4d02-b88b-af17f8f6cd9f_2.png",
+    "battle-eternal-character-architect/references/elara-icp.md",
+    "media/photo_2026-03-04_09-50-57.jpg",
+    "battle-eternal-character-architect/references/leone-icp.md",
+    "media/csalchemsy_a_muscular_man_with_white_hair_with_black_streaks__725bfe70-6117-43e5-b779-2547dbe976d8_0.png",
+    "battle-eternal-character-architect/references/elias-icp.md",
+    "battle-eternal-character-architect/references/grant-icp.md",
+    "media/photo_2026-03-04_09-50-20.jpg",
+    "battle-eternal-character-architect/references/kaelen-icp.md",
+    "battle-eternal-character-architect/references/selene-icp.md",
+    "battle-eternal-character-architect/references/riven-icp.md",
+    "battle-eternal-character-architect/references/nyx-icp.md",
+    "battle-eternal-character-architect/references/finch-icp.md",
+    "battle-eternal-character-architect/references/sigmatix-icp.md",
     "battle-eternal-character-architect/references/alexander-icp-gold-standard.md",
-    "Scenes/01_janglers_introduction.md",
+    "battle-eternal-character-architect/references/thorne-icp.md",
+    "battle-eternal-character-architect/references/spencer-icp.md",
+    "battle-eternal-character-architect/references/castor-icp.md",
+    "battle-eternal-character-architect/references/darius-icp.md",
     "battle-eternal-character-architect/references/demarco-icp.md",
+    "battle-eternal-character-architect/references/crystalis-icp.md",
+    "Scenes/Sin-Eater Arc/Sin-Eater Arc - Narrative Storyline.md",
+    "Scenes/Sin-Eater Arc/Corporate Hierarchy - F-Link to the Order of the Black Sun.md",
+    "media",
+    "Scenes/Sin-Eater Arc/The Scapegoat Protocol - Sin-Eater Arc Overview.md",
+    "Scenes/Sin-Eater Arc",
+    "Chats",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "Scenes",
-    "elara_vault_profile.md",
-    "nyx_icp_revised.md",
     "battle-eternal-character-architect/references",
     "battle-eternal-character-architect"
   ]

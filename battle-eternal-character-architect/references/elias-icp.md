@@ -6,20 +6,12 @@ role: Elite Student / Prefect Enforcer
 archetype: The Righteous Mechanism
 identity_lock: D — Loyal Body, Divided Soul
 power_tier: B (C ceiling through self-destruction)
-thematic_question: "Is order worth any price?"
+thematic_question: Is order worth any price?
 primary_theme: Duty vs Conscience
 secondary_theme: Control vs Mercy
-relationships:
-  - Castor Nightfall: Future moral counterpart (Judge vs Executioner)
-  - Crystalis: Evidence that cracks his certainty
-  - Alexander Holmes Harukaza: Philosophical corrosion
-  - Kaelen Thorne: Physical proof control is incomplete
-  - Elara Vance: Emotional cost made visible
-  - Alistair Finch: Groomer / handler
-  - Chronos: Interrogator
-  - Tomás Rivera: First mercy
 status_season_1: System enforcer beginning to fracture
 ---
+![[file_00000000845071f8a8622d413de133eb-photo_2026-02-28_11-09-35.jpg]]
 
 # Elias Crowe — The Stopwatch
 

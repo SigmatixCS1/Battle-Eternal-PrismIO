@@ -5,6 +5,11 @@
 
 ---
 
+![[csalchemsy_Anime_illustration_of_a_high-ranking_Narrative_Com_56a55179-16d5-47a1-aaa7-50277e59aee1_0.png]]
+
+![[csalchemsy_Anime_illustration_of_a_high-ranking_Narrative_Com_b7da2397-113f-4000-a725-062887f287bb_2.png]]
+
+![[csalchemsy_Anime_illustration_of_a_high-ranking_Narrative_Com_b0328ec6-bc62-485f-af6f-a15cccccf648_0.png]]
 ## Module 1: Identity and System Role
 
 ### Faction System Function
