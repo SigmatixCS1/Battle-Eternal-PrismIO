@@ -11,7 +11,24 @@ This repository serves as the **narrative design and character architecture hub*
 ## Repository Structure
 
 ```
-├── Scenes/                          # Scene scripts (numbered by sequence)
+├── Cosmology of Battle Eternal/     # Universe cosmology, mythology, and prophecy
+│   ├── Cosmology of Battle Eternal.md
+│   ├── Hidden Prophecy Structure of Battle Eternal.md
+│   ├── Mythological Archetypes — The Auditor.md
+│   ├── Season 1 Narrative Structure.md
+│   ├── Season 1 Prophecy Activation Timeline.md
+│   ├── Structural Axis Map.md
+│   └── The Hierarchy of Invisible Power.md
+├── Season 1 Arcs/
+│   └── Sin-Eater Arc/               # Sin-Eater Arc storyline and lore
+│       ├── Corporate Hierarchy - F-Link to the Order of the Black Sun.md
+│       ├── Sin-Eater Arc - Narrative Storyline.md
+│       ├── Sin-Eater Arc — Definitive Storyline.md
+│       ├── Sin-Eater Arc — Narrative Structure.md
+│       ├── The Auditor.md
+│       ├── The Scapegoat Protocol - Sin-Eater Arc Overview.md
+│       └── The Scapegoat Protocol — Mythic Context.md
+├── Test Scenes/                     # Scene scripts (numbered by sequence)
 ├── battle-eternal-character-architect/
 │   ├── SKILL.md                     # Character Architect agent definition
 │   └── references/                  # Character ICP blueprints and templates
@@ -20,7 +37,7 @@ This repository serves as the **narrative design and character architecture hub*
 │       ├── character-roster.md      # Full roster and coverage status
 │       ├── module-templates.md      # ICP module question sets
 │       └── qa-schema.md            # Canon QA checklist
-├── Structural Axis Map.md           # Core cast narrative axis assignments
+├── ALEXANDER_DEMARCO_RIVALRY CONTRACT.md
 └── The Furies — Tier-Level Synopsis.md
 ```
 
