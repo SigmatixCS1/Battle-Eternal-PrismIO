@@ -14,20 +14,18 @@ This repository serves as the **narrative design and character architecture hub*
 ├── Cosmology of Battle Eternal/     # Universe cosmology, mythology, and prophecy
 │   ├── Cosmology of Battle Eternal.md
 │   ├── Hidden Prophecy Structure of Battle Eternal.md
-│   ├── Inscription Arcana.md                            # Hidden occult-linguistic protocol beneath F-Link
-│   ├── Inscription Arcana — Canon Integration Draft.md  # Integration guide for Inscription Arcana
 │   ├── Mythological Archetypes — The Auditor.md
 │   ├── Season 1 Narrative Structure.md
 │   ├── Season 1 Prophecy Activation Timeline.md
 │   ├── Structural Axis Map.md
-│   ├── The Hierarchy of Invisible Power.md
-│   └── ☀️ Order of the Black Sun — True Hierarchy.md   # 5-level Order structure + Pantheon Convergence
+│   └── The Hierarchy of Invisible Power.md
 ├── Season 1 Arcs/
 │   └── Sin-Eater Arc/               # Sin-Eater Arc storyline and lore
 │       ├── Corporate Hierarchy - F-Link to the Order of the Black Sun.md
 │       ├── Sin-Eater Arc - Narrative Storyline.md
 │       ├── Sin-Eater Arc — Definitive Storyline.md
 │       ├── Sin-Eater Arc — Narrative Structure.md
+│       ├── The Auditor.md
 │       ├── The Scapegoat Protocol - Sin-Eater Arc Overview.md
 │       └── The Scapegoat Protocol — Mythic Context.md
 ├── Test Scenes/                     # Scene scripts (numbered by sequence)
@@ -36,11 +34,9 @@ This repository serves as the **narrative design and character architecture hub*
 │   └── references/                  # Character ICP blueprints and templates
 │       ├── alexander-icp-gold-standard.md
 │       ├── *-icp.md                 # Individual character profiles
-│       ├── The Auditor.md           # Auditor character profile
 │       ├── character-roster.md      # Full roster and coverage status
 │       ├── module-templates.md      # ICP module question sets
 │       └── qa-schema.md            # Canon QA checklist
-├── Terra Trion Gate.md              # Planetary ritual geometry + Pantheon Convergence Event
 ├── ALEXANDER_DEMARCO_RIVALRY CONTRACT.md
 └── The Furies — Tier-Level Synopsis.md
 ```
@@ -70,13 +66,6 @@ The **5-Module ICP (Ideal Character Profile) Blueprint System** produces canon-l
 - **Cognitive Dissonance Arc** — ideological conflict and engineered social division
 - **Scapegoat Protocol** — metaphysical karmic displacement and class warfare
 - **Crimson Convergence** — the Furies' endgame to merge the Dark Hold with Earth's ley lines
-
-## Core Lore Systems
-
-- **Inscription Arcana (Ars Inscripta)** — hidden occult-linguistic protocol that converts human emotion, dream residue, and narrative behavior into living runic code via the F-Link network. The Order of the Black Sun's true weapon: a world-writing engine designed to compile humanity into a single obedient narrative.
-- **Terra Trion Gate (Sigilum Trionis)** — planet-scale ritual geometry formed by three Saint Radian academies (Japan, Greece, Kenya) functioning as Memory, Language, and Emotion anchors for the Unified Script.
-- **Pantheon Convergence Event** — unintended side effect of the Terra Trion Gate forcing multiple archetypal myth systems to manifest simultaneously, triggering the Pantheon War.
-- **The Erratum** — resistance counter-program that introduces paradox and contradiction into the world-script to cause compilation failure.
 
 ## Tools & Workflow
 

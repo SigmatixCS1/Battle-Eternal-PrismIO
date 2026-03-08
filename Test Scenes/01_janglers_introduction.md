@@ -4,7 +4,7 @@ location: Saint Radian Classroom
 timeline: Season1_EarlyTerm
 tags: [scene, introduction, mystery-seed, NCB]
 ---
-jhy[p## The Janglers Arrive
+## The Janglers Arrive
 
 The classroom door opened with administrative certainty.
 

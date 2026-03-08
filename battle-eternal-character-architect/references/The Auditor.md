@@ -18,8 +18,7 @@ tags:
     
 
 ---
-
-# The Auditor
+![[The Auditor.mp4]]
 
 The **Auditor** is an unidentified vigilante operating within the Saint Radian ecosystem during the events of the Sin-Eater Arc.
 
