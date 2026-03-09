@@ -6,48 +6,216 @@
       {
         "id": "99b756265013a7bb",
         "type": "tabs",
-        "dimension": 37.37309644670051,
+        "dimension": 49.246704331450104,
         "children": [
           {
-            "id": "f6bb3d8e702b2ab9",
+            "id": "f522c455a310ef1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Furies — Tier-Level Synopsis.md",
+                "file": "Battle Eternal Bible/Battle Eternal — Narrative Spine (Season 1–3).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Furies — Tier-Level Synopsis"
+              "title": "Battle Eternal — Narrative Spine (Season 1–3)"
             }
           },
           {
-            "id": "b10c43cddcfc439b",
+            "id": "d3c4977df17a0a7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "janglers_icp_revised.md",
+                "file": "Battle Eternal Bible/Battle Eternal — Mythic Host System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "janglers_icp_revised"
+              "title": "Battle Eternal — Mythic Host System"
             }
           },
           {
-            "id": "a8adcba8a87e5487",
+            "id": "b835e50842dadf4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "battle-eternal-character-architect/references/castor-icp.md",
+                "file": "Battle Eternal Bible/Battle Eternal — Pantheon Awakening Ladder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "castor-icp"
+              "title": "Battle Eternal — Pantheon Awakening Ladder"
+            }
+          },
+          {
+            "id": "ffab4899f2019879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Battle Eternal Bible/Battle Eternal — Mantle Taxonomy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Battle Eternal — Mantle Taxonomy"
+            }
+          },
+          {
+            "id": "262a35d0be99aa79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Season Arcs/Sin-Eater Arc/Sin-Eater Arc — Definitive Storyline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin-Eater Arc — Definitive Storyline"
+            }
+          },
+          {
+            "id": "ec86f1fce4ebbdd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Battle Eternal Bible/Battle Eternal — Narrative Spine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Battle Eternal — Narrative Spine"
+            }
+          },
+          {
+            "id": "1eea9cbe63f1097d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Battle Eternal Bible/Battle Eternal — Obsidian Vault Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Battle Eternal — Obsidian Vault Structure"
+            }
+          },
+          {
+            "id": "de05ea55ffaa6743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Battle Eternal Bible/Battle Eternal — World Bible.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Battle Eternal — World Bible"
+            }
+          },
+          {
+            "id": "8d855da01a2b5c82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosmology of Battle Eternal/The Five Omega Entities of Battle Eternal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Five Omega Entities of Battle Eternal"
+            }
+          },
+          {
+            "id": "64cb42f72f59658a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test Scenes/ALEXANDER_DEMARCO_RIVALRY CONTRACT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ALEXANDER_DEMARCO_RIVALRY CONTRACT"
+            }
+          },
+          {
+            "id": "1c79efc4bb660784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Saint Radian/Houses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Houses"
+            }
+          },
+          {
+            "id": "f9b13447fa456c21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Saint Radian/Faction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Faction"
+            }
+          },
+          {
+            "id": "eef7ebabdf9649da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Saint Radian/Politics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Politics"
+            }
+          },
+          {
+            "id": "ee8c125b95c61c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Saint Radian/Politics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Politics"
+            }
+          },
+          {
+            "id": "056025d5bd42a951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -59,44 +227,59 @@
               "icon": "file-text",
               "title": "Release Notes"
             }
-          },
-          {
-            "id": "c7f73fab85e1b2da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Furies — Tier-Level Synopsis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Furies — Tier-Level Synopsis"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 14
       },
       {
         "id": "2f5eec9b473bfde1",
         "type": "tabs",
-        "dimension": 62.6269035532995,
+        "dimension": 50.753295668549896,
         "children": [
           {
-            "id": "f0e27728bf2a8d15",
+            "id": "bf786fe771933d99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Furies — Tier-Level Synopsis.md",
+                "file": "Cosmology of Battle Eternal/Inscription Arcana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Furies — Tier-Level Synopsis"
+              "title": "Inscription Arcana"
+            }
+          },
+          {
+            "id": "8775000cfe22a166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosmology of Battle Eternal/Inscription Arcana — Canon Integration Draft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inscription Arcana — Canon Integration Draft"
+            }
+          },
+          {
+            "id": "31f5b8bd21075596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosmology of Battle Eternal/Terra Trion Gate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terra Trion Gate"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -283,11 +466,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 514.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,52 +491,53 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "f0e27728bf2a8d15",
+  "active": "056025d5bd42a951",
   "lastOpenFiles": [
-    "ALEXANDER_DEMARCO_RIVALRY CONTRACT.md",
-    "battle-eternal-character-architect/references/janglers-icp.md",
-    "janglers_icp_revised.md",
+    "battle-eternal-character-architect/references/The Furies — Tier-Level Synopsis.md",
+    "Test Scenes/ALEXANDER_DEMARCO_RIVALRY CONTRACT.md",
+    "Cosmology of Battle Eternal/Dreamfield Cosmology — Concept Overview.md",
+    "Saint Radian/Politics.md",
+    "Saint Radian/Orders.md",
+    "Saint Radian/Houses.md",
+    "Saint Radian/Faction.md",
+    "Saint Radian/Rituals.md",
+    "Saint Radian/Saint Radian Rivalry Matrix 1.md",
+    "Saint Radian",
+    "Cosmology of Battle Eternal/The Five Omega Entities of Battle Eternal.md",
+    "Battle Eternal Bible/Battle Eternal — World Bible.md",
+    "Battle Eternal Bible",
+    "Battle Eternal Bible/Battle Eternal — Obsidian Vault Structure.md",
+    "Battle Eternal Bible/Battle Eternal — Narrative Spine.md",
+    "Season Arcs/Sin-Eater Arc/Sin-Eater Arc — Definitive Storyline.md",
+    "Season Arcs/Sin-Eater Arc/Sin-Eater Arc - Narrative Storyline.md",
+    "Season Arcs/Sin-Eater Arc/Sin-Eater Arc — Narrative Structure.md",
+    "Battle Eternal Bible/Season 1 Narrative Structure.md",
+    "battle-eternal-character-architect/references/grant-icp.md",
+    "copilot/copilot-conversations/What_is_the_summary_of_Grant's_MITM_storyline.@20260308_140146.md",
+    "Battle Eternal Bible/Battle Eternal — Master Timeline.md",
+    "Battle Eternal Bible/Battle Eternal — Mantle Taxonomy.md",
+    "Battle Eternal Bible/Battle Eternal — Pantheon Awakening Ladder.md",
+    "Battle Eternal Bible/Battle Eternal — Mythic Host System.md",
+    "Battle Eternal Bible/Battle Eternal — Narrative Spine (Season 1–3).md",
+    "battle-eternal-character-architect/references/riven-icp.md",
+    "battle-eternal-character-architect/references/selene-icp.md",
+    "scripts/obsidian_export.py",
+    "scripts/notion_to_md.py",
+    "knowledge_base/obsidian",
+    "knowledge_base/notion",
+    "knowledge_base",
+    "scripts",
+    "media/The Auditor.mp4",
+    "media/grok-video-c0383b1a-1209-4425-b129-1edb3ed5cfd3.mp4",
     "media/csalchemsy_Anime_illustration_of_a_high-ranking_Narrative_Com_b0328ec6-bc62-485f-af6f-a15cccccf648_0.png",
     "media/csalchemsy_Anime_illustration_of_a_high-ranking_Narrative_Com_b7da2397-113f-4000-a725-062887f287bb_2.png",
     "media/csalchemsy_Anime_illustration_of_a_high-ranking_Narrative_Com_56a55179-16d5-47a1-aaa7-50277e59aee1_0.png",
-    "battle-eternal-character-architect/references/tisiphone-icp.md",
     "media/csalchemsy_Anime_illustration_of_the_Fury_Tisiphone_reimagine_e12e3258-7cd9-4e17-974e-1b0c6efa1304_0.png",
-    "battle-eternal-character-architect/references/megaera-icp.md",
     "media/csalchemsy_Anime_illustration_of_the_Fury_Megaera_reimagined__76fdbe8c-7a39-44ff-8954-7672b6488a33_0.png",
     "media/csalchemsy_Anime_illustration_of_the_Fury_Megaera_reimagined__9696d3a3-3efb-48b4-9d42-633c8d6cfb97_1 1.png",
-    "battle-eternal-character-architect/references/alecto-icp.md",
     "media/csalchemsy_Anime_illustration_of_the_Fury_Alecto_reimagined_i_f79a3db1-9065-4d02-b88b-af17f8f6cd9f_2.png",
-    "battle-eternal-character-architect/references/elara-icp.md",
     "media/photo_2026-03-04_09-50-57.jpg",
-    "battle-eternal-character-architect/references/leone-icp.md",
     "media/csalchemsy_a_muscular_man_with_white_hair_with_black_streaks__725bfe70-6117-43e5-b779-2547dbe976d8_0.png",
-    "battle-eternal-character-architect/references/elias-icp.md",
-    "battle-eternal-character-architect/references/grant-icp.md",
-    "media/photo_2026-03-04_09-50-20.jpg",
-    "battle-eternal-character-architect/references/kaelen-icp.md",
-    "battle-eternal-character-architect/references/selene-icp.md",
-    "battle-eternal-character-architect/references/riven-icp.md",
-    "battle-eternal-character-architect/references/nyx-icp.md",
-    "battle-eternal-character-architect/references/finch-icp.md",
-    "battle-eternal-character-architect/references/sigmatix-icp.md",
-    "battle-eternal-character-architect/references/alexander-icp-gold-standard.md",
-    "battle-eternal-character-architect/references/thorne-icp.md",
-    "battle-eternal-character-architect/references/spencer-icp.md",
-    "battle-eternal-character-architect/references/castor-icp.md",
-    "battle-eternal-character-architect/references/darius-icp.md",
-    "battle-eternal-character-architect/references/demarco-icp.md",
-    "battle-eternal-character-architect/references/crystalis-icp.md",
-    "Scenes/Sin-Eater Arc/Sin-Eater Arc - Narrative Storyline.md",
-    "Scenes/Sin-Eater Arc/Corporate Hierarchy - F-Link to the Order of the Black Sun.md",
-    "media",
-    "Scenes/Sin-Eater Arc/The Scapegoat Protocol - Sin-Eater Arc Overview.md",
-    "Scenes/Sin-Eater Arc",
-    "Chats",
-    "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "Scenes",
-    "battle-eternal-character-architect/references",
-    "battle-eternal-character-architect"
+    "media/photo_2026-03-04_09-50-20.jpg"
   ]
 }

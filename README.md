@@ -1,88 +1,93 @@
 # Battle Eternal PrismIO
-
 Creative development vault for the **Battle Eternal** universe — a dystopian narrative spanning visual novels, TCG, and transmedia formats.
-
 ## Overview
-
 Battle Eternal is set in a world governed by **The Hegemony**, a one-world government that controls society through the **F-Link** system. The story follows a cast of characters navigating metaphysical awakenings, secret orders, and ideological warfare across multiple interconnected arcs.
-
 This repository serves as the **narrative design and character architecture hub**, housing scene scripts, character profiles, structural documents, and the AI-assisted Character Architect system.
-
 ## Repository Structure
-
 ```
-├── Cosmology of Battle Eternal/     # Universe cosmology, mythology, and prophecy
+├── Battle Eternal Bible/            # Core canon framework documents
+│   ├── Battle Eternal — World Bible.md
+│   ├── Battle Eternal — Narrative Spine.md
+│   ├── Battle Eternal — Narrative Spine (Season 1–3).md
+│   ├── Battle Eternal — Mantle Taxonomy.md
+│   ├── Battle Eternal — Master Timeline.md
+│   ├── Battle Eternal — Mythic Host System.md
+│   ├── Battle Eternal — Pantheon Awakening Ladder.md
+│   ├── Battle Eternal — Obsidian Vault Structure.md
+│   └── Season 1 Narrative Structure.md
+├── Cosmology of Battle Eternal/     # Cosmology, prophecy, and mythic systems
 │   ├── Cosmology of Battle Eternal.md
+│   ├── Dreamfield Cosmology — Concept Overview.md
 │   ├── Hidden Prophecy Structure of Battle Eternal.md
-│   ├── Inscription Arcana.md                            # Hidden occult-linguistic protocol beneath F-Link
-│   ├── Inscription Arcana — Canon Integration Draft.md  # Integration guide for Inscription Arcana
+│   ├── Inscription Arcana.md
+│   ├── Inscription Arcana — Canon Integration Draft.md
 │   ├── Mythological Archetypes — The Auditor.md
-│   ├── Season 1 Narrative Structure.md
 │   ├── Season 1 Prophecy Activation Timeline.md
 │   ├── Structural Axis Map.md
+│   ├── Terra Trion Gate.md
+│   ├── The Five Omega Entities of Battle Eternal.md
 │   ├── The Hierarchy of Invisible Power.md
-│   └── ☀️ Order of the Black Sun — True Hierarchy.md   # 5-level Order structure + Pantheon Convergence
-├── Season 1 Arcs/
-│   └── Sin-Eater Arc/               # Sin-Eater Arc storyline and lore
-│       ├── Corporate Hierarchy - F-Link to the Order of the Black Sun.md
-│       ├── Sin-Eater Arc - Narrative Storyline.md
-│       ├── Sin-Eater Arc — Definitive Storyline.md
-│       ├── Sin-Eater Arc — Narrative Structure.md
-│       ├── The Scapegoat Protocol - Sin-Eater Arc Overview.md
-│       └── The Scapegoat Protocol — Mythic Context.md
-├── Test Scenes/                     # Scene scripts (numbered by sequence)
+│   └── ☀️ Order of the Black Sun — True Hierarchy.md
+├── Saint Radian/                    # Academy house/order architecture
+│   ├── Faction.md
+│   ├── Houses.md
+│   ├── Orders.md
+│   ├── Politics.md
+│   └── Rituals.md
+├── Season Arcs/                     # Seasonal arc docs and escalation maps
+│   ├── Sin-Eater Arc/
+│   │   ├── Corporate Hierarchy - F-Link to the Order of the Black Sun.md
+│   │   ├── Sin-Eater Arc - Narrative Storyline.md
+│   │   ├── Sin-Eater Arc — Definitive Storyline.md
+│   │   ├── Sin-Eater Arc — Narrative Structure.md
+│   │   ├── The Scapegoat Protocol - Sin-Eater Arc Overview.md
+│   │   └── The Scapegoat Protocol — Mythic Context.md
+│   └── ⚔️ Pantheon War Escalation Map (Season 1–3).md
+├── Test Scenes/
+│   └── ALEXANDER_DEMARCO_RIVALRY CONTRACT.md
 ├── battle-eternal-character-architect/
-│   ├── SKILL.md                     # Character Architect agent definition
-│   └── references/                  # Character ICP blueprints and templates
+│   ├── SKILL.md
+│   └── references/
 │       ├── alexander-icp-gold-standard.md
-│       ├── *-icp.md                 # Individual character profiles
-│       ├── The Auditor.md           # Auditor character profile
-│       ├── character-roster.md      # Full roster and coverage status
-│       ├── module-templates.md      # ICP module question sets
-│       └── qa-schema.md            # Canon QA checklist
-├── Terra Trion Gate.md              # Planetary ritual geometry + Pantheon Convergence Event
-├── ALEXANDER_DEMARCO_RIVALRY CONTRACT.md
-└── The Furies — Tier-Level Synopsis.md
+│       ├── *-icp.md
+│       ├── The Auditor.md
+│       ├── The Furies — Tier-Level Synopsis.md
+│       ├── character-roster.md
+│       ├── module-templates.md
+│       └── qa-schema.md
+├── knowledge_base/                  # GPT-ready export set and instructions
+├── scripts/                         # Conversion/consolidation scripts
+├── media/                           # Visual and video assets
+└── copilot/                         # Research and conversation artifacts
 ```
-
 ## Character Architect System
-
 The **5-Module ICP (Ideal Character Profile) Blueprint System** produces canon-locked character profiles used as source-of-truth across all downstream content:
-
 1. **Identity and System Role** — narrative function, divine mantle, identity pillars
 2. **Psychology, Wound and Desire** — core wound, fear, failure modes, arc shape
 3. **Voice, Tone and Emotional Positioning** — dialogue voice, vocabulary rules, samples
 4. **Canon, Power and Knowledge Constraints** — power budget, knowledge state matrix
 5. **Story Function Across Layers** — IP spine, season-level, episode-level, cross-media
-
 ## Core Cast
-
 **Nexus Quartet** — Alexander Holmes Harukaza, Castor Nightfall, Crystalis, DeMarco Zavarus
-
 **Aetherforge Quartet** — Grant Sterling, Spencer Kordell, Kaelen Thorne, Elara Vance
-
 **Extended Cast** — Elias Crowe, Selene Anastas, Leone Strass, Professor Nyx Helverd
-
 **Additional** — Sigmatix (The Silent Observer)
-
 ## Key Arcs
-
 - **Cognitive Dissonance Arc** — ideological conflict and engineered social division
 - **Scapegoat Protocol** — metaphysical karmic displacement and class warfare
 - **Crimson Convergence** — the Furies' endgame to merge the Dark Hold with Earth's ley lines
-
+- **Pantheon War (Season 3)** — mythic systems collide as the Terra Trion Gate nears full activation
 ## Core Lore Systems
-
-- **Inscription Arcana (Ars Inscripta)** — hidden occult-linguistic protocol that converts human emotion, dream residue, and narrative behavior into living runic code via the F-Link network. The Order of the Black Sun's true weapon: a world-writing engine designed to compile humanity into a single obedient narrative.
-- **Terra Trion Gate (Sigilum Trionis)** — planet-scale ritual geometry formed by three Saint Radian academies (Japan, Greece, Kenya) functioning as Memory, Language, and Emotion anchors for the Unified Script.
-- **Pantheon Convergence Event** — unintended side effect of the Terra Trion Gate forcing multiple archetypal myth systems to manifest simultaneously, triggering the Pantheon War.
-- **The Erratum** — resistance counter-program that introduces paradox and contradiction into the world-script to cause compilation failure.
-
+- **Inscription Arcana (Ars Inscripta)** — hidden occult-linguistic protocol that converts human emotion, dream residue, and narrative behavior into living runic code via F-Link.
+- **Terra Trion Gate (Sigilum Trionis)** — planet-scale ritual geometry formed by three Saint Radian academies (Japan, Greece, Kenya) functioning as Memory, Language, and Emotion anchors.
+- **Pantheon Convergence Event** — convergence point where archetypal density and Dreamfield compression ignite the Pantheon War.
+- **Dreamfield Cosmology** — layered metaphysical architecture (Null Author → Cosmic Lattice → Omega Entities → Dreamfield → Pantheon/Primal systems → civilization/technology).
+- **Five Omega Entities** — Sigmatix, Nemesis, Logos, Dream Sovereign, and Null Author as equilibrium forces above host-level mythic systems.
+- **Mantle Taxonomy** — mantle classes (Solar, Judgment, War, Trickster, Underworld, Nature, Sovereignty) tracked via Order classification frameworks.
+- **Pantheon Awakening Ladder** — progressive 6-stage host emergence model from Dormant Host to Apotheosis.
+- **Saint Radian House/Order System** — academy’s seven ideological tracks used as both specialization paths and hidden behavioral experiments.
 ## Tools & Workflow
-
 - **Obsidian** — primary vault editor for markdown content
 - **Character Architect** — AI-assisted ICP development agent (see `battle-eternal-character-architect/SKILL.md`)
-
 ## License
-
 All content in this repository is original creative work. All rights reserved.
