@@ -15,7 +15,9 @@ This repository serves as the **narrative design and character architecture hub*
 │   ├── Battle Eternal — Pantheon Awakening Ladder.md
 │   ├── Battle Eternal — Obsidian Vault Structure.md
 │   └── Season 1 Narrative Structure.md
-├── Cosmology of Battle Eternal/     # Cosmology, prophecy, and mythic systems
+├── Black Sun Reality Engine.md          # Planetary infrastructure concept — the Order's attempt to hack the spiral
+├── The Spiral Codex.yaml                # YAML metadata for the Spiral Codex
+├── Cosmology of Battle Eternal/         # Cosmology, prophecy, and mythic systems
 │   ├── Cosmology of Battle Eternal.md
 │   ├── Dreamfield Cosmology — Concept Overview.md
 │   ├── Hidden Prophecy Structure of Battle Eternal.md
@@ -23,10 +25,17 @@ This repository serves as the **narrative design and character architecture hub*
 │   ├── Inscription Arcana — Canon Integration Draft.md
 │   ├── Mythological Archetypes — The Auditor.md
 │   ├── Season 1 Prophecy Activation Timeline.md
+│   ├── Spiral Codex Diagram.md
+│   ├── Spiral Diagram of History.md
+│   ├── Spiral Question.md
 │   ├── Structural Axis Map.md
 │   ├── Terra Trion Gate.md
 │   ├── The Five Omega Entities of Battle Eternal.md
 │   ├── The Hierarchy of Invisible Power.md
+│   ├── The Nemesis Cycle.md
+│   ├── The Nemesis Pattern.md
+│   ├── The Spiral Codex.md
+│   ├── World Atlas Global Prophecy System.md
 │   └── ☀️ Order of the Black Sun — True Hierarchy.md
 ├── Saint Radian/                    # Academy house/order architecture
 │   ├── Faction.md
@@ -35,6 +44,7 @@ This repository serves as the **narrative design and character architecture hub*
 │   ├── Politics.md
 │   └── Rituals.md
 ├── Season Arcs/                     # Seasonal arc docs and escalation maps
+│   ├── Integrated Prophecy Timeline.md
 │   ├── Sin-Eater Arc/
 │   │   ├── Corporate Hierarchy - F-Link to the Order of the Black Sun.md
 │   │   ├── Sin-Eater Arc - Narrative Storyline.md
@@ -55,6 +65,25 @@ This repository serves as the **narrative design and character architecture hub*
 │       ├── character-roster.md
 │       ├── module-templates.md
 │       └── qa-schema.md
+├── World Map and Atlas/              # Geography, factions, and institutional architecture
+│   ├── Global Power Factions.md
+│   ├── Prophecy Timeline.md
+│   ├── Surface World.md
+│   └── Houses_Orders_Societies/
+│       ├── Saint Radian Houses, Orders, Societies.md
+│       ├── Aetherforge_Program.md
+│       ├── Dialectic-Order.md
+│       ├── Geometricum_Order (Sacred Geometry Specialists).md
+│       ├── House_Aetherion_Society.md
+│       ├── House_Astral_Chorus.md
+│       ├── House_Liminal_Veil.md
+│       ├── House_Living_Sigils.md
+│       ├── House_Obsidian_Glyphs.md
+│       ├── Order of the Black Sun.md
+│       ├── Order of the Eternal Sol.md
+│       ├── Order_of_the_Crimson_Flame.md
+│       └── AssetProcurement/
+│           └── Order of the Black Sun Internal Directive (Operative Style).md
 ├── knowledge_base/                  # GPT-ready export set and instructions
 ├── scripts/                         # Conversion/consolidation scripts
 ├── media/                           # Visual and video assets
@@ -85,7 +114,14 @@ The **5-Module ICP (Ideal Character Profile) Blueprint System** produces canon-l
 - **Five Omega Entities** — Sigmatix, Nemesis, Logos, Dream Sovereign, and Null Author as equilibrium forces above host-level mythic systems.
 - **Mantle Taxonomy** — mantle classes (Solar, Judgment, War, Trickster, Underworld, Nature, Sovereignty) tracked via Order classification frameworks.
 - **Pantheon Awakening Ladder** — progressive 6-stage host emergence model from Dormant Host to Apotheosis.
-- **Saint Radian House/Order System** — academy’s seven ideological tracks used as both specialization paths and hidden behavioral experiments.
+- **Saint Radian House/Order System** — academy's seven ideological tracks used as both specialization paths and hidden behavioral experiments.
+- **Spiral Codex** — oldest surviving prophetic framework linking alchemical stages (Nigredo, Albedo, Citrinitas, Rubedo) to the four-stage cycle of civilizational rise and collapse.
+- **Nemesis Cycle / Nemesis Pattern** — cosmological correction mechanism that activates when technological hubris, power concentration, emotional exploitation, and mythic saturation cross critical thresholds simultaneously.
+- **Spiral Question** — the core philosophical conflict: should humanity escape the cycle of history, or does the cycle exist to protect reality itself?
+- **Black Sun Reality Engine** — the Order's planetary-scale infrastructure (F-Link lattice, emotional resonance reactor, Dreamfield nodes, Saint Radian selection engine) designed to intercept and override the Nemesis Pattern.
+- **Global Prophecy System** — five competing interpretive frameworks (religious, technological, political, mythological, Black Sun) each revealing only a fragment of the true Nemesis Pattern.
+- **Global Power Factions** — seven dominant power structures (Neo-Osaka Technate, Western Hegemony Council, Dominion Directorate, Apostolic Communion, Purity Orders, Southern Coalition Assembly, Order of the Black Sun).
+- **Aetherforge Program** — classified Aetherion Society initiative to reduce spellcraft to code via SpellVectors, threatening the power bases of rival Houses and Orders.
 ## Tools & Workflow
 - **Obsidian** — primary vault editor for markdown content
 - **Character Architect** — AI-assisted ICP development agent (see `battle-eternal-character-architect/SKILL.md`)

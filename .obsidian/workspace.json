@@ -4,237 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "99b756265013a7bb",
-        "type": "tabs",
-        "dimension": 49.246704331450104,
-        "children": [
-          {
-            "id": "f522c455a310ef1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Battle Eternal Bible/Battle Eternal — Narrative Spine (Season 1–3).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Battle Eternal — Narrative Spine (Season 1–3)"
-            }
-          },
-          {
-            "id": "d3c4977df17a0a7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Battle Eternal Bible/Battle Eternal — Mythic Host System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Battle Eternal — Mythic Host System"
-            }
-          },
-          {
-            "id": "b835e50842dadf4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Battle Eternal Bible/Battle Eternal — Pantheon Awakening Ladder.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Battle Eternal — Pantheon Awakening Ladder"
-            }
-          },
-          {
-            "id": "ffab4899f2019879",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Battle Eternal Bible/Battle Eternal — Mantle Taxonomy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Battle Eternal — Mantle Taxonomy"
-            }
-          },
-          {
-            "id": "262a35d0be99aa79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season Arcs/Sin-Eater Arc/Sin-Eater Arc — Definitive Storyline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sin-Eater Arc — Definitive Storyline"
-            }
-          },
-          {
-            "id": "ec86f1fce4ebbdd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Battle Eternal Bible/Battle Eternal — Narrative Spine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Battle Eternal — Narrative Spine"
-            }
-          },
-          {
-            "id": "1eea9cbe63f1097d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Battle Eternal Bible/Battle Eternal — Obsidian Vault Structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Battle Eternal — Obsidian Vault Structure"
-            }
-          },
-          {
-            "id": "de05ea55ffaa6743",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Battle Eternal Bible/Battle Eternal — World Bible.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Battle Eternal — World Bible"
-            }
-          },
-          {
-            "id": "8d855da01a2b5c82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cosmology of Battle Eternal/The Five Omega Entities of Battle Eternal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Five Omega Entities of Battle Eternal"
-            }
-          },
-          {
-            "id": "64cb42f72f59658a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test Scenes/ALEXANDER_DEMARCO_RIVALRY CONTRACT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ALEXANDER_DEMARCO_RIVALRY CONTRACT"
-            }
-          },
-          {
-            "id": "1c79efc4bb660784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saint Radian/Houses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Houses"
-            }
-          },
-          {
-            "id": "f9b13447fa456c21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saint Radian/Faction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Faction"
-            }
-          },
-          {
-            "id": "eef7ebabdf9649da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saint Radian/Politics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Politics"
-            }
-          },
-          {
-            "id": "ee8c125b95c61c56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saint Radian/Politics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Politics"
-            }
-          },
-          {
-            "id": "056025d5bd42a951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "dcd76b1b3405c933",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
-            }
-          }
-        ],
-        "currentTab": 14
-      },
-      {
         "id": "2f5eec9b473bfde1",
         "type": "tabs",
-        "dimension": 50.753295668549896,
         "children": [
           {
             "id": "bf786fe771933d99",
@@ -277,9 +48,37 @@
               "icon": "lucide-file",
               "title": "Terra Trion Gate"
             }
+          },
+          {
+            "id": "9fede18f1d88bac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosmology of Battle Eternal/Spiral Codex Diagram.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spiral Codex Diagram"
+            }
+          },
+          {
+            "id": "a7f6169c51a9c7a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Black Sun Reality Engine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Black Sun Reality Engine"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -491,44 +290,44 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "056025d5bd42a951",
+  "active": "a7f6169c51a9c7a1",
   "lastOpenFiles": [
-    "battle-eternal-character-architect/references/The Furies — Tier-Level Synopsis.md",
-    "Test Scenes/ALEXANDER_DEMARCO_RIVALRY CONTRACT.md",
-    "Cosmology of Battle Eternal/Dreamfield Cosmology — Concept Overview.md",
-    "Saint Radian/Politics.md",
-    "Saint Radian/Orders.md",
-    "Saint Radian/Houses.md",
-    "Saint Radian/Faction.md",
-    "Saint Radian/Rituals.md",
-    "Saint Radian/Saint Radian Rivalry Matrix 1.md",
+    "Cosmology of Battle Eternal/Spiral Codex Diagram.md",
+    "Black Sun Reality Engine.md",
+    "Cosmology of Battle Eternal/Terra Trion Gate.md",
+    "Cosmology of Battle Eternal/Spiral Diagram of History.md",
+    "Cosmology of Battle Eternal/The Spiral Codex.md",
+    "Cosmology of Battle Eternal/Hidden Prophecy Structure of Battle Eternal.md",
+    "The Spiral Codex.yaml",
+    "Cosmology of Battle Eternal/Spiral Question.md",
+    "Cosmology of Battle Eternal/The Nemesis Cycle.md",
+    "Cosmology of Battle Eternal/The Nemesis Pattern.md",
+    "Season Arcs/Integrated Prophecy Timeless.md",
+    "World Map and Atlas/Prophecy Timeline.md",
+    "Cosmology of Battle Eternal/World Atlas Global Prophecy System.md",
+    "World Map and Atlas/Global Power Factions.md",
+    "World Map and Atlas/Houses_Orders_Societies/AssetProcurement/Order of the Black Sun Internal Directive (Operative Style).md",
+    "World Map and Atlas/Houses_Orders_Societies/Saint Radian Houses, Orders, Societies.md",
+    "World Map and Atlas/Houses_Orders_Societies/Order_of_the_Crimson_Flame.md",
+    "World Map and Atlas/Houses_Orders_Societies/Order of the Eternal Sol.md",
+    "World Map and Atlas/Houses_Orders_Societies/Order of the Black Sun.md",
+    "World Map and Atlas/Houses_Orders_Societies/House_Obsidian_Glyphs.md",
+    "World Map and Atlas/Houses_Orders_Societies/House_Living_Sigils.md",
+    "World Map and Atlas/Houses_Orders_Societies/House_Liminal_Veil.md",
+    "World Map and Atlas/Houses_Orders_Societies/House_Astral_Chorus.md",
+    "World Map and Atlas/Houses_Orders_Societies/House_Aetherion_Society.md",
+    "World Map and Atlas/Houses_Orders_Societies/Geometricum_Order (Sacred Geometry Specialists).md",
+    "World Map and Atlas/Houses_Orders_Societies/Dialectic-Order.md",
+    "World Map and Atlas/Houses_Orders_Societies/AssetProcurement",
+    "World Map and Atlas/Houses_Orders_Societies/Aetherforge_Program.md",
+    "World Map and Atlas/Houses_Orders_Societies",
+    "Houses_Orders_Societies/AssetProcurement",
+    "Houses_Orders_Societies",
+    "World Map and Atlas",
+    "requirements.txt",
     "Saint Radian",
-    "Cosmology of Battle Eternal/The Five Omega Entities of Battle Eternal.md",
-    "Battle Eternal Bible/Battle Eternal — World Bible.md",
     "Battle Eternal Bible",
-    "Battle Eternal Bible/Battle Eternal — Obsidian Vault Structure.md",
-    "Battle Eternal Bible/Battle Eternal — Narrative Spine.md",
-    "Season Arcs/Sin-Eater Arc/Sin-Eater Arc — Definitive Storyline.md",
-    "Season Arcs/Sin-Eater Arc/Sin-Eater Arc - Narrative Storyline.md",
-    "Season Arcs/Sin-Eater Arc/Sin-Eater Arc — Narrative Structure.md",
-    "Battle Eternal Bible/Season 1 Narrative Structure.md",
-    "battle-eternal-character-architect/references/grant-icp.md",
-    "copilot/copilot-conversations/What_is_the_summary_of_Grant's_MITM_storyline.@20260308_140146.md",
-    "Battle Eternal Bible/Battle Eternal — Master Timeline.md",
-    "Battle Eternal Bible/Battle Eternal — Mantle Taxonomy.md",
-    "Battle Eternal Bible/Battle Eternal — Pantheon Awakening Ladder.md",
-    "Battle Eternal Bible/Battle Eternal — Mythic Host System.md",
-    "Battle Eternal Bible/Battle Eternal — Narrative Spine (Season 1–3).md",
-    "battle-eternal-character-architect/references/riven-icp.md",
-    "battle-eternal-character-architect/references/selene-icp.md",
     "scripts/obsidian_export.py",
-    "scripts/notion_to_md.py",
-    "knowledge_base/obsidian",
-    "knowledge_base/notion",
-    "knowledge_base",
-    "scripts",
-    "media/The Auditor.mp4",
-    "media/grok-video-c0383b1a-1209-4425-b129-1edb3ed5cfd3.mp4",
     "media/csalchemsy_Anime_illustration_of_a_high-ranking_Narrative_Com_b0328ec6-bc62-485f-af6f-a15cccccf648_0.png",
     "media/csalchemsy_Anime_illustration_of_a_high-ranking_Narrative_Com_b7da2397-113f-4000-a725-062887f287bb_2.png",
     "media/csalchemsy_Anime_illustration_of_a_high-ranking_Narrative_Com_56a55179-16d5-47a1-aaa7-50277e59aee1_0.png",
