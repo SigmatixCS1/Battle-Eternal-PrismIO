@@ -1,0 +1,2 @@
+
+"smart_sources:knowledge_base/PRISMIO_KNOWLEDGE_BASE_CONSOLIDATED.md": {"path":"knowledge_base/PRISMIO_KNOWLEDGE_BASE_CONSOLIDATED.md","embeddings":{"TaylorAI/bge-micro-v2":{"vec":[],"last_embed":{"hash":"18yd1ih","tokens":0}}},"last_read":{"hash":"18yd1ih","at":1773370834444},"class_name":"SmartSource","last_import":{"at":0,"hash":null,"mtime":0,"size":0},"last_embed":{"hash":"18yd1ih","at":1773370834444}},

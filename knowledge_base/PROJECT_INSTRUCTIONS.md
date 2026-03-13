@@ -40,6 +40,15 @@ These are converted from the PopTech/Notion workspace and cover the operational,
 - **Prompt- If you want I can…** — Prompt template
 - **Treatment & Scripting Tools** — Writing and scripting tool references
 
+### Consolidated Reference Files
+These are machine-readable consolidated files covering the full IP:
+
+- **BATTLE_ETERNAL_STORY_SYNOPSIS.md** — Comprehensive story synopsis and series bible. Covers what Battle Eternal is, the complete world, all factions and characters, the full Season 1 issue-by-issue story, Season 2–3 trajectory, and the philosophical heart of the IP. **Start here for any narrative overview question.**
+- **BATTLE_ETERNAL_COSMOLOGY_SPIRAL_CODEX.md** — Full cosmology, metaphysical architecture, and prophecy systems. Covers: the Ladder of Worlds (Five Realms), Nemesis Cycle, Spiral Codex (including the Python/malware machine-language version), Spiral Codex Diagram, Nemesis Pattern (four activation thresholds), Hidden Prophecy Structure (five archetypal forces), Five Omega Entities, Black Sun Reality Engine, Inscription Arcana, Terra Trion Gate, Global Prophecy System, Season 1 Prophecy Activation Timeline, and the Cosmic Question. **Use this for any cosmology, prophecy, spiral, or metaphysical architecture question.**
+- **BATTLE_ETERNAL_NOTION_CONSOLIDATED.md** — Condensed reference from 30 Notion exports covering company info (Hybrid Philosophy), IP framework, ICP (Mythology Seeker persona), GTM strategy, pricing, influencer strategy, competitive intelligence, production SOP, team structure, and market data.
+- **CHARACTER_ICP_CONDENSED.md** — Condensed profiles for all 21 characters: identity spine, psychology, voice rules, power domain, key relationships, Season 1 end-state, Season 2 engine, and Module 6 Compression Statement.
+- **BATTLE_ETERNAL_HOUSES_ORDERS_SOCIETIES.md** — Complete reference for all Saint Radian Houses, Orders, and Societies (10 organizations). Covers each society's motto, dormitory, occult specialty, role in Academy, rivalries/alliances, signature beasts, uniform accents, and narrative function. Includes the Aetherforge Program, political fallout/House War dynamics, the Geometricum Order, and the Order of the Black Sun's Sigmatix procurement directive. **Use this for any question about Houses, societies, student factions, or academy politics.**
+
 ### Obsidian Files (IP Canon & Creative Layer) — `obsidian/` prefix
 These are consolidated master files from the PrismIO Obsidian vault — the creative canon:
 
@@ -53,22 +62,26 @@ These are consolidated master files from the PrismIO Obsidian vault — the crea
 ## Usage Rules
 
 ### When answering creative/lore questions:
-1. **Always consult the Obsidian files first** — they are the canonical source of truth for characters, world-building, arcs, and mythology.
-2. Cross-reference CHARACTER_ICP_MASTER.md for any character-related questions.
-3. Cross-reference COSMOLOGY_AND_STRUCTURE_MASTER.md for world structure, prophecies, and power systems.
-4. Use TEST_SCENES_MASTER.md as examples of the target voice and tone for scene writing.
+1. **Start with BATTLE_ETERNAL_STORY_SYNOPSIS.md** for any narrative overview, "what is Battle Eternal," or story summary questions.
+2. **Consult the Obsidian files** for canonical deep-dive details on characters, world-building, arcs, and mythology.
+3. Cross-reference CHARACTER_ICP_CONDENSED.md or CHARACTER_ICP_MASTER.md for character-related questions.
+4. Cross-reference COSMOLOGY_AND_STRUCTURE_MASTER.md for world structure, prophecies, and power systems.
+5. Use TEST_SCENES_MASTER.md as examples of the target voice and tone for scene writing.
 
 ### When answering production/business questions:
-1. **Consult the Notion files first** — they are the operational source of truth.
-2. GTM, marketing, and audience questions → GTM files + ICP files.
-3. Team and pipeline questions → SOP, Team Collaboration, Core Team files.
-4. Industry and competitive context → Competitive Analysis, Top 100 Companies.
+1. **Start with BATTLE_ETERNAL_NOTION_CONSOLIDATED.md** — condensed operational reference covering all business/production topics.
+2. **Consult the original Notion files** for deeper detail on specific topics.
+3. GTM, marketing, and audience questions → GTM files + ICP files.
+4. Team and pipeline questions → SOP, Team Collaboration, Core Team files.
+5. Industry and competitive context → Competitive Analysis, Top 100 Companies.
 
 ### Priority hierarchy when sources conflict:
 1. Obsidian CHARACTER_ICP_MASTER.md (highest authority for character canon)
 2. Obsidian COSMOLOGY_AND_STRUCTURE_MASTER.md (highest for world/lore)
 3. Obsidian SIN_EATER_ARC_MASTER.md (highest for Sin-Eater arc specifics)
-4. Notion files (operational/strategic guidance)
+4. BATTLE_ETERNAL_STORY_SYNOPSIS.md (narrative overview and story structure)
+5. BATTLE_ETERNAL_NOTION_CONSOLIDATED.md (operational/strategic guidance)
+6. Original Notion files (deep-dive operational detail)
 
 ## Canon Consistency Rules
 These are non-negotiable elements of the Battle Eternal universe:
