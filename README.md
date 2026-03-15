@@ -35,7 +35,6 @@ This repository serves as the **narrative design and character architecture hub*
 │   ├── The Nemesis Cycle.md
 │   ├── The Nemesis Pattern.md
 │   ├── The Spiral Codex.md
-│   ├── World Atlas Global Prophecy System.md
 │   └── ☀️ Order of the Black Sun — True Hierarchy.md
 ├── Saint Radian/                    # Academy house/order architecture
 │   ├── Faction.md
@@ -67,8 +66,19 @@ This repository serves as the **narrative design and character architecture hub*
 │       └── qa-schema.md
 ├── World Map and Atlas/              # Geography, factions, and institutional architecture
 │   ├── Global Power Factions.md
+│   ├── Planetary Control Architecture.md
 │   ├── Prophecy Timeline.md
 │   ├── Surface World.md
+│   ├── World Atlas Global Prophecy System.md
+│   ├── Continental World Map/        # Deep-dive notes per civilization region
+│   │   ├── Eurasian Dominion.md
+│   │   ├── Europe — The Cultural Directorate.md
+│   │   ├── Global Power Map of the Hegemony.md
+│   │   ├── North America — The Algorithmic Directorate.md
+│   │   ├── Pacific Nexus.md
+│   │   ├── Sacred Belt Continent.md
+│   │   ├── Southern Coalition.md
+│   │   └── The Forbidden Expanse.md
 │   └── Houses_Orders_Societies/
 │       ├── Saint Radian Houses, Orders, Societies.md
 │       ├── Aetherforge_Program.md

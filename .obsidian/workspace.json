@@ -8,91 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf786fe771933d99",
+            "id": "61c027a279d038a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology of Battle Eternal/Inscription Arcana.md",
+                "file": "World Map and Atlas/Continental World Map/North America — The Algorithmic Directorate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inscription Arcana"
+              "title": "North America — The Algorithmic Directorate"
             }
           },
           {
-            "id": "8775000cfe22a166",
+            "id": "698c9b6ad12cfea7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology of Battle Eternal/Inscription Arcana — Canon Integration Draft.md",
+                "file": "World Map and Atlas/Continental World Map/Europe — The Cultural Directorate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inscription Arcana — Canon Integration Draft"
+              "title": "Europe — The Cultural Directorate"
             }
           },
           {
-            "id": "31f5b8bd21075596",
+            "id": "f696dcdeabc58b7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology of Battle Eternal/Terra Trion Gate.md",
+                "file": "World Map and Atlas/Continental World Map/Eurasian Dominion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terra Trion Gate"
+              "title": "Eurasian Dominion"
             }
           },
           {
-            "id": "9fede18f1d88bac9",
+            "id": "ad6241508b9334a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology of Battle Eternal/Spiral Codex Diagram.md",
+                "file": "World Map and Atlas/Continental World Map/Southern Coalition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spiral Codex Diagram"
+              "title": "Southern Coalition"
             }
           },
           {
-            "id": "a7f6169c51a9c7a1",
+            "id": "0701917b70be71ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology of Battle Eternal/Black Sun Reality Engine.md",
+                "file": "World Map and Atlas/Continental World Map/Eurasian Dominion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Black Sun Reality Engine"
+              "title": "Eurasian Dominion"
             }
           },
           {
-            "id": "7305fbe0f4ba2b5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cosmology of Battle Eternal/Battle_Eternal_Unified_Cosmology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Battle_Eternal_Unified_Cosmology"
-            }
-          },
-          {
-            "id": "f96e01494060b760",
+            "id": "1ae6fa93d107268a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,49 +92,35 @@
             }
           },
           {
-            "id": "a25195f903274b99",
+            "id": "44e15b0cf2875f2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Map and Atlas/Global Power Map of the Hegemony.md",
+                "file": "World Map and Atlas/Planetary Control Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Global Power Map of the Hegemony"
+              "title": "Planetary Control Architecture"
             }
           },
           {
-            "id": "c02e956ee3ad4fe3",
+            "id": "5ad92bfed10acd6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Map and Atlas/The Structural Role of the Houses, Orders, and Societies.md",
+                "file": "World Map and Atlas/Surface World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Structural Role of the Houses, Orders, and Societies"
-            }
-          },
-          {
-            "id": "a508db91efcec813",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Saint Radian Sorting System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Saint Radian Sorting System"
+              "title": "Surface World"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -360,20 +332,37 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "a508db91efcec813",
+  "active": "5ad92bfed10acd6e",
   "lastOpenFiles": [
-    "World Map and Atlas/The Structural Role of the Houses, Orders, and Societies.md",
-    "The Saint Radian Sorting System.md",
-    "World Map and Atlas/Global Power Factions.md",
-    "World Map and Atlas/Global Power Map of the Hegemony.md",
-    "knowledge_base/BATTLE_ETERNAL_HOUSES_ORDERS_SOCIETIES.md",
+    "Pasted image 20260314170612.png",
+    "World Map and Atlas/Continental World Map/Pasted image 20260314165311.png",
+    "World Map and Atlas/Continental World Map/The Forbidden Expanse.md",
+    "media/ChatGPT Image Mar 14, 2026, 04_47_22 PM.png",
+    "World Map and Atlas/Planetary Control Architecture.md",
+    "media/Pasted image 20260314163459.png",
     "World Map and Atlas/Surface World.md",
+    "World Map and Atlas/Continental World Map/North America — The Algorithmic Directorate.md",
+    "World Map and Atlas/Continental World Map/Pacific Nexus.md",
+    "World Map and Atlas/Continental World Map",
+    "media/Pasted image 20260314162703.png",
+    "World Map and Atlas/Continental World Map/Eurasian Dominion.md",
+    "media/ChatGPT Image Mar 14, 2026, 03_36_12 PM.png",
+    "World Map and Atlas/Continental World Map/Sacred Belt Continent.md",
+    "media/Pasted image 20260314161340.png",
+    "World Map and Atlas/Continental World Map/Southern Coalition.md",
+    "media/Pasted image 20260314154456.png",
+    "media/Pasted image 20260314153629.png",
+    "World Map and Atlas/Continental World Map/Europe — The Cultural Directorate.md",
+    "media/Pasted image 20260314152926.png",
+    "media/ChatGPT Image Mar 14, 2026, 03_18_40 PM.png",
+    "World Map and Atlas/Continental World Map/Global Power Map of the Hegemony.md",
+    "knowledge_base/BATTLE_ETERNAL_WORLD_ATLAS.md",
+    "World Map and Atlas/Global Power Factions.md",
+    "The Saint Radian Sorting System.md",
+    "World Map and Atlas/The Structural Role of the Houses, Orders, and Societies.md",
+    "knowledge_base/BATTLE_ETERNAL_HOUSES_ORDERS_SOCIETIES.md",
     "Sigmatix's Notebook.md",
-    "media/Pasted image 20260312214840.png",
-    "media/Pasted image 20260312214514.png",
-    "media/Pasted image 20260312214448.png",
     "Cosmology of Battle Eternal/Battle_Eternal_Cosmology_Map.md",
-    "media/Pasted image 20260312212402.png",
     "Cosmology of Battle Eternal/Battle_Eternal_Unified_Cosmology.md",
     "Cosmology of Battle Eternal/Black Sun Reality Engine.md",
     "knowledge_base/CHARACTER_ICP_CONDENSED.md",
@@ -382,17 +371,7 @@
     "Cosmology of Battle Eternal/Spiral Codex Diagram.md",
     "Cosmology of Battle Eternal/Terra Trion Gate.md",
     "Cosmology of Battle Eternal/Spiral Diagram of History.md",
-    "Cosmology of Battle Eternal/The Spiral Codex.md",
-    "Cosmology of Battle Eternal/Hidden Prophecy Structure of Battle Eternal.md",
     "The Spiral Codex.yaml",
-    "Cosmology of Battle Eternal/Spiral Question.md",
-    "Cosmology of Battle Eternal/The Nemesis Cycle.md",
-    "Cosmology of Battle Eternal/The Nemesis Pattern.md",
-    "Season Arcs/Integrated Prophecy Timeless.md",
-    "World Map and Atlas/Prophecy Timeline.md",
-    "Cosmology of Battle Eternal/World Atlas Global Prophecy System.md",
-    "World Map and Atlas/Houses_Orders_Societies/AssetProcurement/Order of the Black Sun Internal Directive (Operative Style).md",
-    "World Map and Atlas/Houses_Orders_Societies/Saint Radian Houses, Orders, Societies.md",
     "World Map and Atlas/Houses_Orders_Societies/AssetProcurement",
     "World Map and Atlas/Houses_Orders_Societies",
     "Houses_Orders_Societies/AssetProcurement",
@@ -400,13 +379,6 @@
     "World Map and Atlas",
     "requirements.txt",
     "Saint Radian",
-    "Battle Eternal Bible",
-    "scripts/obsidian_export.py",
-    "media/csalchemsy_Anime_illustration_of_a_high-ranking_Narrative_Com_b0328ec6-bc62-485f-af6f-a15cccccf648_0.png",
-    "media/csalchemsy_Anime_illustration_of_a_high-ranking_Narrative_Com_b7da2397-113f-4000-a725-062887f287bb_2.png",
-    "media/csalchemsy_Anime_illustration_of_a_high-ranking_Narrative_Com_56a55179-16d5-47a1-aaa7-50277e59aee1_0.png",
-    "media/csalchemsy_Anime_illustration_of_the_Fury_Tisiphone_reimagine_e12e3258-7cd9-4e17-974e-1b0c6efa1304_0.png",
-    "media/csalchemsy_Anime_illustration_of_the_Fury_Megaera_reimagined__76fdbe8c-7a39-44ff-8954-7672b6488a33_0.png",
-    "media/csalchemsy_Anime_illustration_of_the_Fury_Megaera_reimagined__9696d3a3-3efb-48b4-9d42-633c8d6cfb97_1 1.png"
+    "Battle Eternal Bible"
   ]
 }

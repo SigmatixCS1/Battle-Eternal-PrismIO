@@ -7,7 +7,9 @@ tags:
 - geopolitics
 - battle-eternal
 ---
+![[ChatGPT Image Mar 12, 2026, 09_22_56 PM.png]]
 
+![[ChatGPT Image Mar 12, 2026, 10_30_04 PM.png]]
 # Global Power Factions
 
 The world of Battle Eternal is shaped by seven dominant power structures that compete for influence over humanity’s future.

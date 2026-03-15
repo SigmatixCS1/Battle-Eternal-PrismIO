@@ -1,4 +1,7 @@
-Great question. Expanding the **global geopolitical layer** will make _Battle Eternal_ feel much larger than just Neo-Osaka. The key is to remember one canon rule you already established:
+
+![[Battle Eternal Power Map.png]]
+
+Expanding the **global geopolitical layer** will make _Battle Eternal_ feel much larger than just Neo-Osaka. The key is to remember one canon rule you already established:
 
 - The **Hegemony is the official global government**, but it operates through **regional corporate blocs and administrative regimes**.
     

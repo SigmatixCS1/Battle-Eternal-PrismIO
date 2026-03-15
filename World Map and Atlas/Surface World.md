@@ -10,6 +10,7 @@ tags:
   - cosmology
   - battle-eternal
 ---
+![[Pasted image 20260314170612.png]]
 
 ### Battle Eternal World Atlas
 
