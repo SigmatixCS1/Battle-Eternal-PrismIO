@@ -5,6 +5,13 @@ Battle Eternal is set in a world governed by **The Hegemony**, a one-world gover
 This repository serves as the **narrative design and character architecture hub**, housing scene scripts, character profiles, structural documents, and the AI-assisted Character Architect system.
 ## Repository Structure
 ```
+├── 00 System/                       # Production system templates and narrative engines
+│   ├── Battle Eternal Issue Zero - The World Before the Spark.md
+│   ├── Bound-to-Turn Mystery Engine.md
+│   ├── Episode Generation System.md
+│   ├── Episode Template and Narrative Engine.md
+│   ├── Season 1 Narrative Structure.md
+│   └── Season Architecture System.md
 ├── Battle Eternal Bible/            # Core canon framework documents
 │   ├── Battle Eternal — World Bible.md
 │   ├── Battle Eternal — Narrative Spine.md
@@ -13,8 +20,7 @@ This repository serves as the **narrative design and character architecture hub*
 │   ├── Battle Eternal — Master Timeline.md
 │   ├── Battle Eternal — Mythic Host System.md
 │   ├── Battle Eternal — Pantheon Awakening Ladder.md
-│   ├── Battle Eternal — Obsidian Vault Structure.md
-│   └── Season 1 Narrative Structure.md
+│   └── Battle Eternal — Obsidian Vault Structure.md
 ├── Black Sun Reality Engine.md          # Planetary infrastructure concept — the Order's attempt to hack the spiral
 ├── The Spiral Codex.yaml                # YAML metadata for the Spiral Codex
 ├── Cosmology of Battle Eternal/         # Cosmology, prophecy, and mythic systems
@@ -35,6 +41,9 @@ This repository serves as the **narrative design and character architecture hub*
 │   ├── The Nemesis Cycle.md
 │   ├── The Nemesis Pattern.md
 │   ├── The Spiral Codex.md
+│   ├── Division Engine — Technical Architecture.md
+│   ├── Integrated Prophecy Timeless.md
+│   ├── ⚔️ Pantheon War Escalation Map (Season 1–3).md
 │   └── ☀️ Order of the Black Sun — True Hierarchy.md
 ├── Saint Radian/                    # Academy house/order architecture
 │   ├── Faction.md
@@ -43,15 +52,13 @@ This repository serves as the **narrative design and character architecture hub*
 │   ├── Politics.md
 │   └── Rituals.md
 ├── Season Arcs/                     # Seasonal arc docs and escalation maps
-│   ├── Integrated Prophecy Timeline.md
-│   ├── Sin-Eater Arc/
-│   │   ├── Corporate Hierarchy - F-Link to the Order of the Black Sun.md
-│   │   ├── Sin-Eater Arc - Narrative Storyline.md
-│   │   ├── Sin-Eater Arc — Definitive Storyline.md
-│   │   ├── Sin-Eater Arc — Narrative Structure.md
-│   │   ├── The Scapegoat Protocol - Sin-Eater Arc Overview.md
-│   │   └── The Scapegoat Protocol — Mythic Context.md
-│   └── ⚔️ Pantheon War Escalation Map (Season 1–3).md
+│   └── Sin-Eater Arc/
+│       ├── Corporate Hierarchy - F-Link to the Order of the Black Sun.md
+│       ├── Sin-Eater Arc - Narrative Storyline.md
+│       ├── Sin-Eater Arc — Definitive Storyline.md
+│       ├── Sin-Eater Arc — Narrative Structure.md
+│       ├── The Scapegoat Protocol - Sin-Eater Arc Overview.md
+│       └── The Scapegoat Protocol — Mythic Context.md
 ├── Test Scenes/
 │   └── ALEXANDER_DEMARCO_RIVALRY CONTRACT.md
 ├── battle-eternal-character-architect/
@@ -94,6 +101,15 @@ This repository serves as the **narrative design and character architecture hub*
 │       ├── Order_of_the_Crimson_Flame.md
 │       └── AssetProcurement/
 │           └── Order of the Black Sun Internal Directive (Operative Style).md
+├── The 2038 Covergence Event/        # 2038 Convergence systems, F-Link, Nemesis Pattern, Spiral Codex
+│   ├── 2038 Convergence Event.md
+│   ├── F-Link Cosmological Interactive Map.md
+│   ├── F-Link Neural Network.md
+│   ├── Nemesis Pattern — Cosmology Architecture.md
+│   ├── Spiral Codex — Universal Law of Conflict.md
+│   ├── Temporal Architecture of the Spiral Codex.md
+│   ├── The First Spiral — Ancient Convergences.md
+│   └── The Furies — Governors of the Spiral.md
 ├── knowledge_base/                  # GPT-ready export set and instructions
 ├── scripts/                         # Conversion/consolidation scripts
 ├── media/                           # Visual and video assets
