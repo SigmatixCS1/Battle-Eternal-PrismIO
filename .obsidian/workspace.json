@@ -8,119 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61c027a279d038a7",
+            "id": "568fbaa19ac95f55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Map and Atlas/Continental World Map/North America — The Algorithmic Directorate.md",
+                "file": "The Furies — Governors of the Spiral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "North America — The Algorithmic Directorate"
-            }
-          },
-          {
-            "id": "698c9b6ad12cfea7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Map and Atlas/Continental World Map/Europe — The Cultural Directorate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Europe — The Cultural Directorate"
-            }
-          },
-          {
-            "id": "f696dcdeabc58b7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Map and Atlas/Continental World Map/Eurasian Dominion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eurasian Dominion"
-            }
-          },
-          {
-            "id": "ad6241508b9334a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Map and Atlas/Continental World Map/Southern Coalition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Southern Coalition"
-            }
-          },
-          {
-            "id": "0701917b70be71ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Map and Atlas/Continental World Map/Eurasian Dominion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eurasian Dominion"
-            }
-          },
-          {
-            "id": "1ae6fa93d107268a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Map and Atlas/Surface World.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Surface World"
-            }
-          },
-          {
-            "id": "44e15b0cf2875f2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Map and Atlas/Planetary Control Architecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Planetary Control Architecture"
-            }
-          },
-          {
-            "id": "5ad92bfed10acd6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Map and Atlas/Surface World.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Surface World"
+              "title": "The Furies — Governors of the Spiral"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -311,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 514.5
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -332,45 +233,45 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "5ad92bfed10acd6e",
+  "active": "568fbaa19ac95f55",
   "lastOpenFiles": [
-    "Pasted image 20260314170612.png",
+    "knowledge_base/BATTLE_ETERNAL_2038_CONVERGENCE_SYSTEMS.md",
+    "The First Spiral — Ancient Convergences.md",
+    "The Furies — Governors of the Spiral.md",
+    "Temporal Architecture of the Spiral Codex.md",
+    "2038 Convergence Event.md",
+    "Spiral Codex — Universal Law of Conflict.md",
+    "Nemesis Pattern — Cosmology Architecture.md",
+    "Saint Radian/Faction.md",
+    "Saint Radian/Houses.md",
+    "World Map and Atlas/Houses_Orders_Societies/Saint Radian - The Sorting Ceremony.md",
+    "World Map and Atlas/BATTLE ETERNAL — FORBIDDEN EXPANSE MASTER MAP.md",
+    "World Map and Atlas/BATTLE ETERNAL — MASTER COSMOLOGY MAP.md",
+    "Division Engine — Technical Architecture.md",
+    "F-Link Cosmological Interactive Map.md",
+    "F-Link Neural Network.md",
+    "World Map and Atlas/BATTLE ETERNAL — GLOBAL DREAMFIELD MAP.md",
+    "World Map and Atlas/Houses_Orders_Societies/Saint Radian Sorting System.md",
+    "World Map and Atlas/Houses_Orders_Societies/Saint Radian House Sorting System.md",
+    "World Map and Atlas/The Structural Role of the Houses, Orders, and Societies.md",
+    "Cosmology of Battle Eternal/BATTLE ETERNAL — SPIRAL CODEX EVENT DIAGRAM.md",
+    "Cosmology of Battle Eternal/THE 2038 CONVERGENCE EVENT.md",
+    "World Map and Atlas/Surface World.md",
+    "knowledge_base/BATTLE_ETERNAL_CONTINENTAL_DEEP_DIVES.md",
+    "media/Pasted image 20260314170612.png",
     "World Map and Atlas/Continental World Map/Pasted image 20260314165311.png",
     "World Map and Atlas/Continental World Map/The Forbidden Expanse.md",
     "media/ChatGPT Image Mar 14, 2026, 04_47_22 PM.png",
     "World Map and Atlas/Planetary Control Architecture.md",
     "media/Pasted image 20260314163459.png",
-    "World Map and Atlas/Surface World.md",
     "World Map and Atlas/Continental World Map/North America — The Algorithmic Directorate.md",
-    "World Map and Atlas/Continental World Map/Pacific Nexus.md",
     "World Map and Atlas/Continental World Map",
     "media/Pasted image 20260314162703.png",
-    "World Map and Atlas/Continental World Map/Eurasian Dominion.md",
     "media/ChatGPT Image Mar 14, 2026, 03_36_12 PM.png",
-    "World Map and Atlas/Continental World Map/Sacred Belt Continent.md",
     "media/Pasted image 20260314161340.png",
-    "World Map and Atlas/Continental World Map/Southern Coalition.md",
     "media/Pasted image 20260314154456.png",
     "media/Pasted image 20260314153629.png",
-    "World Map and Atlas/Continental World Map/Europe — The Cultural Directorate.md",
     "media/Pasted image 20260314152926.png",
-    "media/ChatGPT Image Mar 14, 2026, 03_18_40 PM.png",
-    "World Map and Atlas/Continental World Map/Global Power Map of the Hegemony.md",
-    "knowledge_base/BATTLE_ETERNAL_WORLD_ATLAS.md",
-    "World Map and Atlas/Global Power Factions.md",
-    "The Saint Radian Sorting System.md",
-    "World Map and Atlas/The Structural Role of the Houses, Orders, and Societies.md",
-    "knowledge_base/BATTLE_ETERNAL_HOUSES_ORDERS_SOCIETIES.md",
-    "Sigmatix's Notebook.md",
-    "Cosmology of Battle Eternal/Battle_Eternal_Cosmology_Map.md",
-    "Cosmology of Battle Eternal/Battle_Eternal_Unified_Cosmology.md",
-    "Cosmology of Battle Eternal/Black Sun Reality Engine.md",
-    "knowledge_base/CHARACTER_ICP_CONDENSED.md",
-    "knowledge_base/BATTLE_ETERNAL_COSMOLOGY_AND_LORE_CONSOLIDATED.md",
-    "knowledge_base/PRISMIO_KNOWLEDGE_BASE_CONSOLIDATED.md",
-    "Cosmology of Battle Eternal/Spiral Codex Diagram.md",
-    "Cosmology of Battle Eternal/Terra Trion Gate.md",
-    "Cosmology of Battle Eternal/Spiral Diagram of History.md",
     "The Spiral Codex.yaml",
     "World Map and Atlas/Houses_Orders_Societies/AssetProcurement",
     "World Map and Atlas/Houses_Orders_Societies",

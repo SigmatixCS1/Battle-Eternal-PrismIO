@@ -443,13 +443,3 @@ But yours is deeper because the houses are tied to:
 
 ---
 
-If you want, the **next thing we should do** (this is where the magic happens) is build the **House Sorting System**.
-
-Specifically:
-
-1️⃣ **How students get sorted**  
-2️⃣ **What tests reveal their archetype**  
-3️⃣ **What the hidden algorithm behind the sorting is**  
-4️⃣ **How the Order secretly manipulates it**
-
-That system will create **one of the coolest early scenes in Season 1**.
