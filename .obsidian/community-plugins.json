@@ -2,14 +2,12 @@
   "templater-obsidian",
   "dataview",
   "obsidian-style-settings",
-  "copilot",
   "obsidian-mind-map",
   "smart-second-brain",
-  "local-gpt",
-  "ai_llm",
   "ollama",
   "advanced-canvas",
   "obsidian-icon-folder",
   "media-extended",
-  "smart-connections"
+  "smart-connections",
+  "copilot"
 ]

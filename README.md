@@ -12,6 +12,11 @@ This repository serves as the **narrative design and character architecture hub*
 │   ├── Episode Template and Narrative Engine.md
 │   ├── Season 1 Narrative Structure.md
 │   └── Season Architecture System.md
+├── 01 System/                       # Season 1 issue scripts and supporting lore
+│   ├── Battle Eternal - 01 The Axiom Trial.md
+│   ├── Battle Eternal - 02 The Centuar Manifestation.md
+│   ├── Dreamfield Creature Classification System from Issue 2.md
+│   └── Sable Dynamics Corporate Hierarchy.md
 ├── Battle Eternal Bible/            # Core canon framework documents
 │   ├── Battle Eternal — World Bible.md
 │   ├── Battle Eternal — Narrative Spine.md
@@ -22,6 +27,12 @@ This repository serves as the **narrative design and character architecture hub*
 │   ├── Battle Eternal — Pantheon Awakening Ladder.md
 │   └── Battle Eternal — Obsidian Vault Structure.md
 ├── Black Sun Reality Engine.md          # Planetary infrastructure concept — the Order's attempt to hack the spiral
+├── Sable Dynamics — Boardroom Sequence.md  # Narrative scene script — Sable Dynamics boardroom introducing Blackout Protocol
+├── Saint Radian Campus Hidden Map.md       # Dual-layer campus structure and House hidden facilities
+├── Saint Radian Dreamfield Breach Protocol.md  # Five-phase Order containment system for Dreamfield events
+├── Saint Radian Power Hierarchy.md         # Four-layer governance (Furies → Order → Institutions → Students)
+├── The Hidden War — Sable Dynamics vs The Order of the Black Sun.md  # Ideological conflict between the two power systems
+├── The Primal Wilds Ecosystem Map.md       # Six mythic biomes and Dreamfield creature ecology
 ├── The Spiral Codex.yaml                # YAML metadata for the Spiral Codex
 ├── Cosmology of Battle Eternal/         # Cosmology, prophecy, and mythic systems
 │   ├── Cosmology of Battle Eternal.md

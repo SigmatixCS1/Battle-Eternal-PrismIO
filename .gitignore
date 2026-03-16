@@ -1,5 +1,11 @@
 # Obsidian copilot index (can exceed GitHub file size limits)
 .obsidian/copilot-index-*.json
 
+# Smart Second Brain vectorstores (large binary files)
+.obsidian/plugins/smart-second-brain/vectorstores/
+
+# Plugin data files containing API keys/secrets
+.obsidian/plugins/copilot/data.json
+
 # Python virtual environment
 .venv/
