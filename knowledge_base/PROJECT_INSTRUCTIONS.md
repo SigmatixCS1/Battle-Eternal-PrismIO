@@ -99,8 +99,8 @@ These are consolidated master files from the PrismIO Obsidian vault — the crea
 4. BATTLE_ETERNAL_PRODUCTION_SYSTEMS.md (highest for episode/season structure and production pipeline)
 5. BATTLE_ETERNAL_SEASON1_ISSUES_AND_INSTITUTIONS.md (highest for Season 1 issue content, Sable Dynamics, Saint Radian architecture, Dreamfield creatures)
 6. BATTLE_ETERNAL_STORY_SYNOPSIS.md (narrative overview and story structure)
-6. BATTLE_ETERNAL_NOTION_CONSOLIDATED.md (operational/strategic guidance)
-7. Original Notion files (deep-dive operational detail)
+7. BATTLE_ETERNAL_NOTION_CONSOLIDATED.md (operational/strategic guidance)
+8. Original Notion files (deep-dive operational detail)
 
 ## Canon Consistency Rules
 These are non-negotiable elements of the Battle Eternal universe:
@@ -115,6 +115,12 @@ These are non-negotiable elements of the Battle Eternal universe:
 - **Alexander Holmes Harukaza** — Protagonist with domain authority in light manipulation, truth perception, and cyberpathic systems. Has hard limits (no reality rewriting, no mind control) and a flinch enforcement mechanism against authoritarian drift.
 - **Crystalis** — Trained in defensive martial art (combat Tai Chi) since age 5; abilities dramatically amplified by Athena mantle.
 - **Sigmatix** — Mysterious figure who disrupts F-Link, appearing as a "blind spot" immune to observation. Carries a self-rewriting journal.
+- **Sable Dynamics** — Western technocratic infrastructure conglomerate. Controlled by the Board of Strategic Governance (The Silhouette, Cassandra Vale, Victor Havelock, Dr. Naomi Kade). Operates Blackout Protocol (four phases: Diplomatic Acquisition → Regulatory Suffocation → Economic Collapse → Terminal Resolution/Bloodline Termination). Targets Grant Sterling's atmospheric water generator. Represents the technological antagonist system — controls infrastructure and information, contrasted with the Order's control of myth and emotion.
+- **Saint Radian Governance** — Four-layer hidden hierarchy: Mythic Oversight (Furies) → Order Governance (Casey, Thorne, Headmaster Finch) → Institutional Operations (Houses/Orders/Societies) → Student Ecosystem. The academy is a controlled mythological research facility disguised as a school, sitting on a high-resonance Dreamfield fault line.
+- **Dreamfield Creature Classification** — Three classes: Class I Echo Beasts (temporary, weak), Class II Primal Beasts (conscious beings displaced from the Primal Wilds — like the Centaur), Class III Archetype Avatars (fully conscious mythic intelligences). Creatures are not evil — they are out of place. The Order treats them as research resources.
+- **The Primal Wilds** — Mythic ecological layer beyond the Dreamfield with six biomes: Verdant Expanse (nature/instinct), Ember Steppes (war/fury), Moonlit Canopy (illusion/trickery), Crystal Abyss (knowledge/memory), Storm Crown (divine authority), Veiled Depths (fear/chaos). Breaches require Dreamfield instability + archetypal resonance + human emotional amplification.
+- **Dreamfield Breach Protocol** — Saint Radian's five-phase containment system: Resonance Detection → Breach Event (Level I/II/III) → Rapid Response (student teams: Elias/arcane control, Kaelen/physical interdiction, DeMarco/arcane execution, Elara/empathic analysis, Grant/civilian protection) → Containment → Narrative Control. The Order often encourages breach conditions for research purposes.
+- **The Hidden War** — Sable Dynamics and the Order of the Black Sun are rival institutions with competing philosophies of control. The Order controls myth/archetypes/consciousness; Sable controls infrastructure/technology/dependency. They share a historical origin (early 2000s researchers who split over whether mythological structures should be governed or digitized). Neither fully understands the forces awakening through the Dreamfield.
 
 ## Tone & Style Guidelines
 - Battle Eternal is a **mythology-driven spy thriller** — not generic fantasy.
