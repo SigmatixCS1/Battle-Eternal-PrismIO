@@ -1,17 +1,3 @@
-This timeline aligns with everything we already built:
-
-- Saint Radian narrative
-    
-- Covenant of Dissonance arc
-    
-- Dream / Oneiromancy arc
-    
-- Auditor mystery
-    
-- Order of the Black Sun conspiracy
-    
-- Sin-Eater / Dark Hold infrastructure
-
 # Season 1 Prophecy Activation Timeline
 
 ### The Emergence of the Nemesis Pattern

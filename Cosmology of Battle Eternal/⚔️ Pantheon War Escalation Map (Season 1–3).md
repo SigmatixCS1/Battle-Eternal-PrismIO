@@ -1,17 +1,3 @@
-Perfect — these two pieces **should be designed together**, because the **Pantheon Convergence Event is the engine**, and the **Season escalation is the pressure build-up toward it**.
-
-What we want structurally is:
-
-Season 1 = **Discovery of the System**  
-Season 2 = **Mythic Emergence**  
-Season 3 = **Pantheon War Ignition**
-
-This aligns with your **Conspiracy Revelation Ladder** where the Order itself is not fully revealed in Season 1.
-
-Below is a **canon-friendly escalation map** and the **true convergence event design**.
-
----
-
 # ⚔️ Pantheon War Escalation Map (Season 1–3)
 
 **Type:** Narrative Escalation Framework  

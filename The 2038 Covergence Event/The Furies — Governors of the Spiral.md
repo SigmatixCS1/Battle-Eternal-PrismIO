@@ -283,21 +283,4 @@ The Furies respond.
 
 By the time the protagonists understand the system, the spiral has already accelerated beyond anyone’s control.
 
----
-
-# Suggested Vault Placement
-
-```
-Cosmology/
- ├── Spiral Codex.md
- ├── Temporal Architecture of the Spiral Codex.md
- ├── First Spiral Ancient Convergences.md
- ├── Furies Governors of the Spiral.md
- ├── Division Engine.md
- ├── Nemesis Pattern.md
- ├── F-Link Neural Network.md
- └── 2038 Convergence Event.md
-```
-
----
 

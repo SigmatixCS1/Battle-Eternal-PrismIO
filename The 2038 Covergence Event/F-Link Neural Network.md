@@ -277,39 +277,3 @@ The struggle between these forces defines the conflict of the Battle Eternal uni
 [[Atlas Cluster]]
 ```
 
----
-
-# VIII. POSITION IN THE VAULT
-
-Suggested Obsidian path:
-
-```
-Technology/
-
-   F-Link Neural Network.md
-```
-
-Related folders:
-
-```
-Cosmology/
-World Atlas/
-Institutions/
-```
-
----
-
-If you want, the **next thing we should build** (this will massively strengthen the lore bible) is a **Layer Interaction Diagram** showing how:
-
-- F-Link
-    
-- Dreamfield
-    
-- the Division Engine
-    
-- the Dark Hold
-    
-
-all connect together across the cosmological layers.
-
-It would basically become the **technical blueprint of the Battle Eternal universe.**

@@ -1,9 +1,3 @@
-We’re going to build the **Temporal Architecture of the Spiral Codex**, which explains _why the Order believes 1970–2038 is not arbitrary_. This ties computing history, prophecy, and metaphysics together in a way that feels eerie but plausible.
-
-Below is **Obsidian-vault ready**.
-
----
-
 # Temporal Architecture of the Spiral Codex
 
 **Battle Eternal Cosmology System File**
@@ -306,33 +300,3 @@ The Order calls these anomalies **Nemesis Events**.
 
 And by 2038, the world is beginning to produce them everywhere.
 
----
-
-## Suggested Vault Placement
-
-```
-Cosmology/
- ├── Spiral Codex.md
- ├── Temporal Architecture of the Spiral Codex.md
- ├── Division Engine.md
- ├── Nemesis Pattern.md
- ├── F-Link Neural Network.md
- └── 2038 Convergence Event.md
-```
-
----
-
-If you want, the **next extremely powerful lore piece** would be something that will make the world feel _ancient and prophetic_ instead of purely technological:
-
-**“The First Spiral — Ancient Civilizations That Reached Convergence Before.”**
-
-That would explain:
-
-- why spiral symbols exist in ancient cultures
-    
-- how previous civilizations collapsed
-    
-- why the Order believes this cycle can finally be controlled in 2038.
-    
-
-And it would make the story feel **massive in historical scale**, like _Dune_, _The Matrix_, or _Attack on Titan_.

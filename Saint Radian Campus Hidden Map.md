@@ -399,19 +399,3 @@ Every faction interprets the event through its own ideology.
 
 Which quietly escalates the **institutional cold war beneath the academy**.
 
----
-
-If you want, the next thing we could build (and it will make the story _much more dramatic_) is:
-
-**The Saint Radian Power Hierarchy Chart**
-
-It would reveal:
-
-- who actually controls the academy
-    
-- where the Furies fit into the system
-    
-- why the Orders secretly compete with each other
-    
-
-And it will explain why **Saint Radian is not a school — it is a battlefield.**

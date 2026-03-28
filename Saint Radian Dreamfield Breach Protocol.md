@@ -1,9 +1,3 @@
-Perfect. Designing this **from the Order’s internal perspective** will make Saint Radian feel like a real institution with procedures rather than a convenient plot device. It also explains **why the response team (Elias, Kaelen, DeMarco, Elara, Grant)** reacts so quickly during the Centaur event.
-
-What we’ll build here is essentially the **internal operations manual** used by the Order of the Black Sun and Saint Radian administrators.
-
----
-
 # Saint Radian Dreamfield Breach Protocol
 
 ### Internal Order Operations Framework

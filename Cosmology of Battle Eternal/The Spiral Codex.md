@@ -368,9 +368,7 @@ if fractured_humanity:
 
 ---
 
-## More Corrupted / Malware-Styled Variant
-
-If you want it to feel less like clean code and more like **infected prophecy leaking through a circuit board**, use this style in-universe:
+## Corrupted Variant — Infected Prophecy Fragment
 
 ```python
 # /spiral.codex/fragment_09.black
@@ -406,28 +404,4 @@ print("<< QUANTUM FRACTURE IMMINENT >>")
 print("<< ALL THRONES SUBJECT TO JUDGMENT >>")
 ```
 
----
-
-## Best way to use this in Battle Eternal
-
-This could appear as:
-
-- a **forbidden Black Sun internal file**
-    
-- a **Dreamfield vision rendered as code**
-    
-- a **hidden terminal scene in Saint Radian**
-    
-- a **Sigmatix artifact**
-    
-- a **DeMarco discovery** that freaks him out
-    
-- a **VTuber/Iconoclasm Files reveal** where prophecy and code overlap
-    
-
-It gives the world that gorgeous vibe of:
-
-> scripture translated into executable architecture
-
-That’s very _Battle Eternal_.
 

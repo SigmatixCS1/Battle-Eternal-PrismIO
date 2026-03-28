@@ -1,26 +1,3 @@
-Perfect timing for this step. Once you add the **Episode Template** and **Narrative Engine**, your vault stops being just notes and becomes a **story production system**.
-
-We’ll do this in two parts:
-
-1️⃣ **Episode Template (Obsidian file)**  
-2️⃣ **Battle Eternal Narrative Engine**
-
-Both will live in your **`00 SYSTEM`** folder.
-
----
-
-# 1️⃣ Obsidian File — Episode Template
-
-Create a new file:
-
-```
-00 SYSTEM/Episode Template.md
-```
-
-Paste this inside.
-
----
-
 # Battle Eternal — Episode Template
 
 ## Episode Metadata
@@ -509,35 +486,3 @@ This narrative engine allows Battle Eternal to scale to:
 
 without losing structural coherence.
 
----
-
-# What We Built
-
-You now have three **core production systems** in your vault:
-
-```
-Episode Generation System
-Episode Template
-Battle Eternal Narrative Engine
-```
-
-This is **exactly how large IPs are structured internally**.
-
----
-
-# The Next Extremely Powerful Step
-
-The next system would be the **Season Architecture System**.
-
-This will define:
-
-```
-Season arcs
-Episode pacing
-Mystery distribution
-Climax structure
-```
-
-And it will allow you to **outline an entire season of Battle Eternal in under 30 minutes**.
-
-If you'd like, we can build that next. It will make your story planning dramatically easier.

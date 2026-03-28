@@ -8,63 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02ade1d8c1afc926",
+            "id": "109f4feceb9fe9bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saint Radian Power Hierarchy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Saint Radian Power Hierarchy"
-            }
-          },
-          {
-            "id": "e77049881883412b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 System/Sable Dynamics Corporate Hierarchy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sable Dynamics Corporate Hierarchy"
-            }
-          },
-          {
-            "id": "04c952662b139d8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 System/Sable Dynamics Corporate Hierarchy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sable Dynamics Corporate Hierarchy"
-            }
-          },
-          {
-            "id": "149174eb827e3e14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Hidden War — Sable Dynamics vs The Order of the Black Sun.md",
+                "file": "Corporate Entities/The Hidden War — Sable Dynamics vs The Order of the Black Sun.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "The Hidden War — Sable Dynamics vs The Order of the Black Sun"
             }
+          },
+          {
+            "id": "7fbcfdd974989b9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Corporate Entities/Sable Dynamics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sable Dynamics"
+            }
+          },
+          {
+            "id": "695ca211643b56de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Corporate Entities/Sin Eater System (SES).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin Eater System (SES)"
+            }
+          },
+          {
+            "id": "7cfaec66eff4bdcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Performance of Sincerity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Performance of Sincerity"
+            }
+          },
+          {
+            "id": "e46a1cb46ef26232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Corporate Entities/🧠 THE POWER MAP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🧠 THE POWER MAP"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -265,53 +279,53 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "4254ad2c0746a75e",
+  "active": "68cd4164307cff80",
   "lastOpenFiles": [
-    "copilot/copilot-conversations/Please_analyze_the_Hidden_War_Stable_Dynamics_vs._Order_the@20260315_224158.md",
-    "01 System/Sable Dynamics Corporate Hierarchy.md",
-    "The Hidden War — Sable Dynamics vs The Order of the Black Sun.md",
-    "Sable Dynamics — Boardroom Sequence.md",
-    "Saint Radian Power Hierarchy.md",
-    "copilot/copilot-conversations/analyze_this_note@20260315_203443.md",
-    "copilot/copilot-conversations/9.11_and_9.8,_which_is_bigger@20260315_202443.md",
-    "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260315_201724.md",
+    "The Performance of Sincerity.md",
+    "Corporate Entities/🧠 THE POWER MAP.md",
+    "knowledge_base/BATTLE_ETERNAL_CORPORATE_ENTITIES.md",
     "Saint Radian Campus Hidden Map.md",
-    "Saint Radian Dreamfield Breach Protocol.md",
-    "The Primal Wilds Ecosystem Map.md",
-    "01 System/Dreamfield Creature Classification System from Issue 2.md",
-    "01 System/Battle Eternal - 02 The Centuar Manifestation.md",
-    "copilot/copilot-conversations/Hello@20260315_121735.md",
-    "01 System/Battle Eternal - 01 The Axiom Trial.md",
-    "copilot/memory/Recent Conversations.md",
+    "Brand Pitch.md",
+    "Corporate Entities/Sin Eater System (SES).md",
+    "Corporate Entities/Sable Dynamics.md",
+    "Corporate Entities/Functionality Link Systems (FLS)  F-Link.md",
+    "Corporate Entities/The Hidden War — Sable Dynamics vs The Order of the Black Sun.md",
+    "Corporate Entities/Sable Dynamics — Boardroom Sequence.md",
+    "Saint Radian Power Hierarchy.md",
+    "Sigmatix's Notebook/Origin of Sigmatix 5.md",
+    "Corporate Entities",
+    "Sigmatix's Notebook/Origin of Sigmatix 4.md",
+    "Sigmatix's Notebook/Origin of Sigmatix 3.md",
+    "Sigmatix's Notebook/Origin of Sigmatix 2.md",
+    "Sigmatix's Notebook/Origin of Sigmatix.md",
+    "Houses_Orders_Societies/Sorting System the universe in algorithmic form.md",
+    "Houses_Orders_Societies/Saint Radian Houses.md",
+    "knowledge_base/BATTLE_ETERNAL_HOUSES_ORDERS_SOCIETIES.md",
+    "knowledge_base/BATTLE_ETERNAL_SAINT_RADIAN_HOUSES_AND_SORTING.md",
+    "Houses_Orders_Societies/Saint Radian - The Sorting Ceremony.md",
+    "Houses_Orders_Societies/🔥 House Pyraxis — The Crimson Flame.md",
+    "Houses_Orders_Societies/♾️ House Aeonis (or House of Eternal Soul).md",
+    "Houses_Orders_Societies/Geometricum_Order (Sacred Geometry Specialists).md",
+    "Houses_Orders_Societies/Order of the Black Sun.md",
+    "Houses_Orders_Societies/🕶️House of the Liminal Veil — The Architects of Perception.md",
+    "Sigmatix's Notebook",
+    "media/Pasted image 20260322120002.png",
+    "media/Pasted image 20260322114321.png",
+    "media/Pasted image 20260322113619.png",
+    "media/Pasted image 20260322113513.png",
+    "media/Pasted image 20260322113401.png",
+    "media/Pasted image 20260322113206.png",
+    "media/Pasted image 20260322111610.png",
+    "media/Pasted image 20260322110708.png",
+    "media/Riven_Takar_The_Divine_Playwright_of_Saint_Radian__6.png",
+    "Character Sheets and Specs",
+    "media/An_anime_image_of_Darius__2.png",
     "copilot/memory",
-    "copilot/copilot-conversations/Summarize_the_key_points_from_Battle_Eternal_-_01_The@20260315_105939.md",
-    "copilot/copilot-conversations/Analyze_the_Battle_Eternal_-_01_The_Axiom_Trail_and@20260315_105438.md",
-    "copilot/copilot-conversations/Analyze_and_generate_a_synpsis@20260315_104815.md",
-    "copilot/copilot-conversations/9.11_and_9.8,_which_is_bigger@20260315_104639.md",
-    "World Map and Atlas/Houses_Orders_Societies/Saint Radian - The Sorting Ceremony.md",
     "01 System",
-    "World Map and Atlas/Houses_Orders_Societies/Saint Radian House Sorting System.md",
-    "World Map and Atlas/Houses_Orders_Societies/Saint Radian Houses, Orders, Societies.md",
-    "World Map and Atlas/Houses_Orders_Societies/Saint Radian Sorting System.md",
-    "Saint Radian/Rituals.md",
-    "knowledge_base/BATTLE_ETERNAL_COSMOLOGY_AND_LORE_CONSOLIDATED.md",
     "The 2038 Covergence Event",
     "00 System",
-    "media/Pasted image 20260314170612.png",
-    "World Map and Atlas/Continental World Map/Pasted image 20260314165311.png",
-    "media/ChatGPT Image Mar 14, 2026, 04_47_22 PM.png",
-    "media/Pasted image 20260314163459.png",
     "World Map and Atlas/Continental World Map",
-    "media/Pasted image 20260314162703.png",
-    "media/ChatGPT Image Mar 14, 2026, 03_36_12 PM.png",
-    "media/Pasted image 20260314161340.png",
-    "media/Pasted image 20260314154456.png",
-    "media/Pasted image 20260314153629.png",
-    "media/Pasted image 20260314152926.png",
     "The Spiral Codex.yaml",
-    "World Map and Atlas/Houses_Orders_Societies/AssetProcurement",
-    "World Map and Atlas/Houses_Orders_Societies",
-    "Houses_Orders_Societies/AssetProcurement",
-    "Houses_Orders_Societies"
+    "Houses_Orders_Societies/AssetProcurement"
   ]
 }

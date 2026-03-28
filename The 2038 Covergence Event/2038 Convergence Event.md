@@ -276,8 +276,3 @@ It is the moment when:
 
 > the machine built to measure time reaches the limit of its design — and reveals the hidden architecture beneath reality.
 
----
-
-## Suggested Vault Placement
-
-`Cosmology/  ├── Spiral Codex.md  ├── Division Engine.md  ├── Nemesis Pattern.md  ├── F-Link Neural Network.md  └── 2038 Convergence Event.md`

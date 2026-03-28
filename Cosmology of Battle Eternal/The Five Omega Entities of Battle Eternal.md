@@ -1,10 +1,3 @@
-**Omega entities do not “fight.”  
-They change the conditions under which reality operates.**
-
-That keeps them mythic and prevents power creep.
-
----
-
 # The Five Omega Entities of Battle Eternal
 
 These are the **highest metaphysical forces that can appear in the narrative**.

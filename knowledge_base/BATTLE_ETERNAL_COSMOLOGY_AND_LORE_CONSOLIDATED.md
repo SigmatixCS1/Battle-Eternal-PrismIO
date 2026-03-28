@@ -1671,7 +1671,7 @@ As the three academies synchronize, they create **linguistic pressure** on the D
 **Required:**
 - Physical infiltration of geothermal facility
 - [[Grant Sterling]] + [[DeMarco Zavarus]] collaboration (reluctant genius teamup)
-- [[Elara Vance]]'s empathic override to reprogram emotional frequencies
+- [[Elara Vance Character Sheet]]'s empathic override to reprogram emotional frequencies
 
 ---
 
@@ -2590,7 +2590,7 @@ Each entry represents a “living blueprint” studied and invoked at Saint Radi
 
 ## Lore Use
 - Primary order: [[Geometricum_Order]]  
-- Rival interpretations: [[House_Living_Sigils]] (bio-glyph parallels), [[Aetherion_Society]] (AI’s reductionist simulations).
+- Rival interpretations: [[🌿 House of Living Sigils - The Garden of Becoming]] (bio-glyph parallels), [[Aetherion_Society]] (AI’s reductionist simulations).
 
 ---
 
@@ -3962,7 +3962,7 @@ connected_systems:
 ---
 character_id: alexander-harukaza
 name: Alexander Holmes Harukaza
-order_house: Unaffiliated / Natural Rival to [[Order of the Eternal Sol]]
+order_house: Unaffiliated / Natural Rival to [[♾️ House Aeonis (or House of Eternal Soul)]]
 dorm: Off-Campus Housing (formerly)
 archetype: The Intuitive Rebel / The Truth-Seeker / The Digital Trickster
 gift: Quantum Tarot Blades / Cyberpathy / A.I. (Aspire | Inspire)
@@ -4053,7 +4053,7 @@ Alexander’s rivalry with **[[DeMarco Zavarus]]** is the core of his academy li
 Alexander's status as an unaffiliated "rebel" places him in a unique and dangerous position within the academy's structured society.
 
 *   **Ideological Rivalry:**
-    *   **[[Order of the Eternal Sol]]:** Alexander holds a profound contempt for this House. He sees their manufactured charisma and projected glory as a blasphemous parody of his own divine source—a hollow, artificial light. They, in turn, view him as a chaotic heretic who profanes their sacred archetype, making them natural and bitter enemies.
+    *   **[[♾️ House Aeonis (or House of Eternal Soul)]]:** Alexander holds a profound contempt for this House. He sees their manufactured charisma and projected glory as a blasphemous parody of his own divine source—a hollow, artificial light. They, in turn, view him as a chaotic heretic who profanes their sacred archetype, making them natural and bitter enemies.
 *   **Allies & Complex Dynamics:**
     *   **[[Spencer Kordell]]:** They are two sides of the truth-seeking coin. Alexander intuits truth with a flash of insight; Spencer proves it with meticulous data. They would form a powerful, if sometimes mismatched, investigative partnership.
     *   **[[Selene Anastas]]:** He would be one of the few to immediately recognize the legitimacy of her dream-visions, seeing her as a fellow oracle speaking a different language.
@@ -4128,7 +4128,7 @@ Before Thomas's death and the full awakening of Nemesis, Castor operates as a ta
 
 ##### **Secondary Abilities (Academy Phase)**
 
-*   **"Psychic Silence"** — Castor's mental state is naturally shielded. Empaths like [[Elara Vance]] perceive him as a void—not evil, but absent. This is Nemesis's latent presence creating a buffer.
+*   **"Psychic Silence"** — Castor's mental state is naturally shielded. Empaths like [[Elara Vance Character Sheet]] perceive him as a void—not evil, but absent. This is Nemesis's latent presence creating a buffer.
 *   **"Aura Reading"** — Can see the spiritual energy surrounding people as visible light. Pure souls glow golden (like Thomas). Corrupted souls appear as dim, flickering shadows.
 *   **"Fate's Whisper"** — Occasionally hears warnings or guidance from an unknown source (later revealed to be Nemesis trying to communicate through the veil).
 *   **"Protective Wards"** — Can create minor magical barriers using runic symbols. Mostly defensive—keeps out minor hostile magic and unwanted attention.
@@ -4306,7 +4306,7 @@ Castor is both victim and perpetrator, judge and prisoner, savior and monster. H
 
 Castor's latent power creates a variety of reactions from those around him, especially the psychically sensitive.
 
-*   **[[Elara Vance]]:** As a deep empath, Elara finds Castor profoundly unsettling. When she tries to read him, she feels nothing—a perfect, silent void where a person's emotions should be. This "psychic silence" is more terrifying to her than overt anger or malice. She feels an instinctual need to keep her distance, as if standing too close to a black hole.
+*   **[[Elara Vance Character Sheet]]:** As a deep empath, Elara finds Castor profoundly unsettling. When she tries to read him, she feels nothing—a perfect, silent void where a person's emotions should be. This "psychic silence" is more terrifying to her than overt anger or malice. She feels an instinctual need to keep her distance, as if standing too close to a black hole.
 *   **[[Selene Anastas]]:** In her dreams, Castor appears not as a person but as a recurring, abstract symbol: a set of perfectly balanced scales or a cracked and crumbling throne. She can't see his face in the Dreamfield, only the immense, gravitational weight of the archetype he carries. She knows he is central to the coming "Fracture" she foresees, but his role is a terrifying blank in her visions.
 *   **[[Kaelen Thorne]]:** As a trained warrior who reads intent and body language, Kael sees Castor as the ultimate wild card. He recognizes Castor's coiled stillness not as passivity, but as the perfect economy of motion of a predator. He can't get a read on Castor's loyalties or intentions, which makes Castor the one person on campus Kael is genuinely wary of confronting.
 *   **[[DeMarco Zavarus]]:** DeMarco dismisses Castor as an irrelevant, gloomy loner. However, on a subconscious level, his own guilt over the Quantum Fracture makes him deeply uncomfortable with Castor's silent, watchful presence. He finds himself unconsciously avoiding Castor in the hallways, driven by an instinct he can't logically explain.
@@ -4334,7 +4334,7 @@ Castor's latent power creates a variety of reactions from those around him, espe
 ---
 character_id: crystalis
 name: Crystalis
-order_house: "[[The Dialectic Order]] (Master Debater) / [[Order of the Eternal Sol]] (Social Affiliate)"
+order_house: "[[The Dialectic Order]] (Master Debater) / [[♾️ House Aeonis (or House of Eternal Soul)]] (Social Affiliate)"
 dorm: The Empyrean Spire
 archetype: The Strategic Queen / The Hidden Scholar
 gift: Dual-Consciousness / Access to the Library of Alexandria
@@ -4616,7 +4616,7 @@ DeMarco is a celebrated, if intimidating, figure within the academy, but his int
 *   **House & Professional Rivalry:**
     *   **[[Aetherion Society]]:** He is their star pupil. This puts him in direct competition with **[[Grant Sterling]]**. While both are genius builders, their philosophies clash. DeMarco builds for control and profit; Grant builds for freedom and empowerment.
 *   **Complex Dynamics:**
-    *   **[[Elara Vance]]:** Her powerful empathy is a profound threat. She is likely the only person who can feel the crushing guilt he radiates, making him deeply uncomfortable around her.
+    *   **[[Elara Vance Character Sheet]]:** Her powerful empathy is a profound threat. She is likely the only person who can feel the crushing guilt he radiates, making him deeply uncomfortable around her.
     *   **[[Kaelen Thorne]]:** As a defector, Kael would deeply distrust DeMarco's "ends-justify-the-means" ambition and would watch him with intense suspicion.
 
 Of course. The provided images are a fantastic visual anchor for DeMarco's character arc—from confident creator to a man wielding dangerous, world-breaking power. His supreme confidence and allure are central to his identity and his role in the narrative.
@@ -4738,7 +4738,7 @@ After his disastrous attempt to harness Source magic and the resulting Quantum F
 #### **Weaknesses and Limitations**
 
 *   **Guilt-Driven Paralysis:** Post-Fracture, DeMarco's immense guilt can cause him to hesitate at critical moments, second-guessing whether his actions will cause more harm than good.
-*   **Empathic Vulnerability:** [[Elara Vance]]'s empathic abilities can feel the crushing weight of his remorse, making her a threat to his carefully maintained emotional control. Prolonged exposure to empaths can trigger panic attacks.
+*   **Empathic Vulnerability:** [[Elara Vance Character Sheet]]'s empathic abilities can feel the crushing weight of his remorse, making her a threat to his carefully maintained emotional control. Prolonged exposure to empaths can trigger panic attacks.
 *   **Source Corruption Risk:** Each use of Source-derived abilities risks further contamination. Overuse could result in **dimensional bleed**, where his physical form begins to phase between realities.
 *   **Social Isolation:** His genius makes collaboration difficult. He struggles to explain his processes to others, leading to mistrust and miscommunication with potential allies.
 *   **Physical Frailty:** Unlike combat-focused avatars like Alexander or Castor, DeMarco's physical body is relatively vulnerable. In direct combat without preparation, he's at a severe disadvantage.
@@ -7893,7 +7893,7 @@ These unanswered questions undoubtedly contribute to the enigmatic allure of Sel
 
 *   **House:** [[Astral Chorus]]. She is the heart of this society, embodying their deepest principles.
 *   **Allies:**
-    *   **[[Elara Vance]]:** As a fellow empath in the Astral Chorus, Elara is one of the few who understands the burden of Selene's gift and often acts as her anchor to the real world.
+    *   **[[Elara Vance Character Sheet]]:** As a fellow empath in the Astral Chorus, Elara is one of the few who understands the burden of Selene's gift and often acts as her anchor to the real world.
     *   **[[Spencer Kordell]]:** She may anonymously provide him with cryptic sketches or warnings. His analytical mind is perfectly suited to deciphering her symbolic visions, creating a powerful intelligence-gathering duo.
 *   **Rivals / Threats:**
     *   **[[The Dialectic Order]]:** Members of this society often challenge her, dismissing her "unprovable" visions as emotional nonsense.
@@ -7907,7 +7907,7 @@ These unanswered questions undoubtedly contribute to the enigmatic allure of Sel
 - Instability in her Oneiromancy creates gateways for archetypes.
 
 ### House Affiliation
-- Member of [[House_Astral_Chorus]]
+- Member of [[🌙 House Astral Chorus]]
 - Cautious relationship with [[Geometricum_Order]], who attempt to reduce her dreamscapes into geometric maps.
 
 ### Arc Role
@@ -16695,7 +16695,7 @@ tags:
 Type: Story Arc
 Timeline-Order: Post-Cognitive Dissonance Arc
 Status: In Development
-Characters-Involved: [[Selene Anastas]], [[Castor Nightfall]], [[Elara Vance]], [[Professor Nyx Helverd]]
+Characters-Involved: [[Selene Anastas]], [[Castor Nightfall]], [[Elara Vance Character Sheet]], [[Professor Nyx Helverd]]
 Tags: #Arc #Dreams #Oneiromancy #Astral-Chorus
 ---
 
@@ -26816,11 +26816,11 @@ The series follows [[Alexander Holmes Harukaza]] through the [[Cognitive Dissona
 - [[Selene Anastas]]'s nightmare - [[Castor Nightfall|Castor]] appears terrifying and inevitable in her dreams
 - [[The Centaur Incident|Centaur]] manifests on campus, causing massive chaos and panic
 - Response team assembles: [[Elias Crowe]] slows beast with "The Interval"
-- [[Kaelen Thorne]] physically grapples the creature while [[Elara Vance]] calms its pain
+- [[Kaelen Thorne]] physically grapples the creature while [[Elara Vance Character Sheet]] calms its pain
 - [[Grant Sterling]] & reluctant [[DeMarco Zavarus]] build tech restraints to contain it
 
 **World-Building Focus**: Dreamfield reality interface, archetypal manifestations, student abilities
-**Character Introductions**: [[Selene Anastas]], [[Elias Crowe]], [[Kaelen Thorne]], [[Elara Vance]], [[Grant Sterling]]
+**Character Introductions**: [[Selene Anastas]], [[Elias Crowe]], [[Kaelen Thorne]], [[Elara Vance Character Sheet]], [[Grant Sterling]]
 **Cliffhanger**: By morning, the Centaur has completely vanished with no record it ever existed
 
 ---
@@ -26850,7 +26850,7 @@ The series follows [[Alexander Holmes Harukaza]] through the [[Cognitive Dissona
 
 **Key Scenes**:
 - Horror discovery of beast's carcass - clear signs of supernatural vengeance
-- [[Elara Vance]] breaks down feeling the creature's final agony echoing in her empathy
+- [[Elara Vance Character Sheet]] breaks down feeling the creature's final agony echoing in her empathy
 - [[Professor Nyx Helverd]]'s final breakdown - tries to teach shadow work, students ignore him for gossip
 - Nyx snaps: "This is programming! These ships are projections to harvest your unconscious!"
 - [[Crystalis]] lashes out at [[The Shipping Wars|shipping war]] mob: "You're all trash"
@@ -27025,7 +27025,7 @@ The series follows [[Alexander Holmes Harukaza]] through the [[Cognitive Dissona
 ### **Primary Academy Characters**
 - **Issue #1**: [[Alexander Holmes Harukaza]], [[Crystalis]], [[DeMarco Zavarus]]
 - **Issue #2**: [[Professor Nyx Helverd]], student factions
-- **Issue #3**: [[Selene Anastas]], [[Elias Crowe]], [[Kaelen Thorne]], [[Elara Vance]], [[Grant Sterling]]
+- **Issue #3**: [[Selene Anastas]], [[Elias Crowe]], [[Kaelen Thorne]], [[Elara Vance Character Sheet]], [[Grant Sterling]]
 - **Issue #4**: [[Spencer Kordell]], deeper focus on [[Castor Nightfall]]
 - **Issue #5**: [[Headmaster Alistair Finch]], [[Order of the Black Sun]] representatives
 - **Issue #6**: [[Order of the Black Sun|Order of the Black Sun]] officials, [[F-Link]] Priest-Operators
@@ -33131,7 +33131,7 @@ primary_characters:
   - "[[Spencer Kordell]]"
   - "[[Grant Sterling]]"
   - "[[Selene Anastas]]"
-  - "[[Elara Vance]]"
+  - "[[Elara Vance Character Sheet]]"
   - "[[Kaelen Thorne]]"
   - "[[Elias Crowe]]"
   - "[[Professor Nyx Helverd]]"
@@ -33342,7 +33342,7 @@ The orientation ends with students being escorted to their dormitories, but the 
 **The Response Teams**  
 - [[Elias Crowe]] slows the beast with *The Interval*.  
 - [[Kaelen Thorne]] physically grapples.  
-- [[Elara Vance]] calms its pain empathically.  
+- [[Elara Vance Character Sheet]] calms its pain empathically.  
 - [[Grant Sterling]] & reluctant [[DeMarco Zavarus]] build **tech-cuffs & cage** to restrain it.  
 - Success… but in the morning, the beast is gone — no record it ever existed.  
 
@@ -33455,7 +33455,7 @@ The orientation ends with students being escorted to their dormitories, but the 
 - [[Spencer Kordell]]  
 - [[Grant Sterling]]  
 - [[Selene Anastas]]  
-- [[Elara Vance]]  
+- [[Elara Vance Character Sheet]]  
 - [[Kaelen Thorne]]  
 - [[Elias Crowe]]  
 - [[Professor Nyx Helverd]]  
@@ -35570,7 +35570,7 @@ Faculty insist this is **"interactive training,"** their voices brittle with fea
 
 ---
 
-### [[Elara Vance]] — Empathic Mediator
+### [[Elara Vance Character Sheet]] — Empathic Mediator
 
 **Role:** Reaches into the creature's psyche, calming its panic  
 **Action:** Feels the Centaur's **anguish**: confusion, the scent of hunter's traps, the desperate need to **return home**. She projects calm; a **blue halo** settles around its eyes.  
@@ -35886,7 +35886,7 @@ At twilight, **[[Yatagarasu]]**—Helverd's divine crow—lands atop the ruined 
 
 ---
 
-### [[Elara Vance]]
+### [[Elara Vance Character Sheet]]
 
 **Before:** Empathic abilities used for healing, comfort  
 **During:** First time using empathy on **non-human consciousness**  
@@ -35995,7 +35995,7 @@ At twilight, **[[Yatagarasu]]**—Helverd's divine crow—lands atop the ruined 
 - [[Castor Nightfall]] — Dream source  
 - [[Elias Crowe]] — Temporal anchor  
 - [[Kaelen Thorne]] — Combat specialist  
-- [[Elara Vance]] — Empathic mediator  
+- [[Elara Vance Character Sheet]] — Empathic mediator  
 - [[Grant Sterling]] — Engineer  
 - [[DeMarco Zavarus]] — Technomancer  
 - [[Spencer Kordell]] — Documentarian  
@@ -36472,7 +36472,7 @@ Transform three emotion streams from **synchronization** (harmonic unity) to **i
 **Required:**
 - Physical infiltration of geothermal facility (high security)
 - [[Grant Sterling]] + [[DeMarco Zavarus]] collaboration (reluctant genius teamup)
-- [[Elara Vance]]'s empathic override to reprogram emotional frequencies
+- [[Elara Vance Character Sheet]]'s empathic override to reprogram emotional frequencies
 
 **Challenges:**
 - Most heavily guarded node (bio-weapon potential if compromised)
@@ -36709,7 +36709,7 @@ Transform three emotion streams from **synchronization** (harmonic unity) to **i
 - [[Grant Sterling]] — Erratum engineer
 - [[Spencer Kordell]] — Paradox designer
 - [[DeMarco Zavarus]] — Wild card
-- [[Elara Vance]] — Empathic override
+- [[Elara Vance Character Sheet]] — Empathic override
 - [[Elias Crowe]] — Temporal anchor
 
 ---
@@ -39116,7 +39116,7 @@ He has planted seeds of doubt in his students' minds through weeks of coded lect
 
 ### Relationships & Rivalries
 
-*   **House:** [[Astral Chorus]]. He guides students like **[[Elara Vance]]** and **[[Selene Anastas]]**, recognizing and nurturing their intuitive gifts.
+*   **House:** [[Astral Chorus]]. He guides students like **[[Elara Vance Character Sheet]]** and **[[Selene Anastas]]**, recognizing and nurturing their intuitive gifts.
 *   **Students of Interest:**
     *   **[[Alexander Holmes Harukaza]]:** He sees the raw, unfiltered light of the Logos in Alexander and tries to give him the discipline to wield it.
     *   **[[Crystalis]]:** He recognizes her strategic mind as a powerful potential ally if she can be swayed from playing the Order's games.
@@ -39803,7 +39803,7 @@ tags: [order, house, sacred-geometry, sigils, resonance, lore]
 ## Overview
 The **Geometricum Order** pursues the universal **archetypal blueprints** underlying all of Saint Radian’s mysteries. To them, the **Flower of Life**, **Metatron’s Cube**, and **Vesica Piscis** are not symbols but living equations that can be used to stabilize or destabilize reality.  
 
-Where [[House_Living_Sigils|Living Sigils]] inscribe glyphs in vines, roots, and natural mediums, the Geometricum Order deals in **pure form** — crystalline lattices, projection fields, and resonance grids. They are often accused of being "cold mathematicians of the soul," but their work provides some of the most powerful containment, projection, and resonance technologies in the narrative war.
+Where [[🌿 House of Living Sigils - The Garden of Becoming|Living Sigils]] inscribe glyphs in vines, roots, and natural mediums, the Geometricum Order deals in **pure form** — crystalline lattices, projection fields, and resonance grids. They are often accused of being "cold mathematicians of the soul," but their work provides some of the most powerful containment, projection, and resonance technologies in the narrative war.
 
 ---
 
@@ -39845,7 +39845,7 @@ Where [[House_Living_Sigils|Living Sigils]] inscribe glyphs in vines, roots, and
 ---
 
 ## Relationships
-- Allies: [[House_Living_Sigils]] (sigil kinship), occasional joint projects.  
+- Allies: [[🌿 House of Living Sigils - The Garden of Becoming]] (sigil kinship), occasional joint projects.  
 - Rivals: [[Aetherion Society]], [[Astral Chorus]] (ideological clashes).  
 - Icons: The **Geometricum Triarchs**, anonymous elders who “speak in geometry” during initiations.
 
@@ -41354,8 +41354,8 @@ tags:
   - lure
   - resonance
 faction_usage:
-  - "[[House_Aetherion_Society]]"
-  - "[[Order_of_the_Crimson_Flame]]"
+  - "[[⚙️ House Aetherion Society — The System Architects]]"
+  - "[[🔥 House Pyraxis — The Crimson Flame]]"
   - "[[Order of the Black Sun]]"
   - "[[Selene Anastas]]"
 functionality:
@@ -41393,13 +41393,13 @@ functionality:
 
 # Known_users:
   - "[[Aetherion_Society]] field research teams (expeditionary staple)"
-  - "[[Order_of_the_Crimson_Flame]] hunters (paired with containment ops)"
+  - "[[🔥 House Pyraxis — The Crimson Flame]] hunters (paired with containment ops)"
   - "[[Order_of_the_Black_Cross]] incursion squads (urban assault applications)"
   - "[[Selene Anastas]] — once accidentally tuned into one during a dream-state"
 
 # Notes_and_connections:
   - "Forms the first step in the control chain: lure (Anchor), capture (Container), command (Transducer)."
-  - "Terrifies empathetic observers like [[Elara Vance]], who sense the emptiness of its call compared to true bonds."
+  - "Terrifies empathetic observers like [[Elara Vance Character Sheet]], who sense the emptiness of its call compared to true bonds."
   - "Rumor: Finch wants Anchors integrated into Academy architecture — subconscious herding of beasts and students."
   - "Sensitive to ambient psychic weather — storms and dream projections can detune or amplify it."
 ---
@@ -41416,7 +41416,7 @@ Conceived as the “fieldwork sibling” to the [[Lexicon_Transducer]], the Echo
 
 The [[Order_of_the_Black_Cross]] weaponized it further as a **Herding Tool**, deploying Anchors in cities to provoke chaos for fear-harvesting.  
 
-[[Elara Vance]] called it a *“false heartbeat — a hollow lure that feeds on longing but offers no connection.”*
+[[Elara Vance Character Sheet]] called it a *“false heartbeat — a hollow lure that feeds on longing but offers no connection.”*
 
 <!-- ================================================================== -->
 <!-- SOURCE: Relics_and_SigilTech\Fracturesight_Visor.md -->
@@ -41684,7 +41684,7 @@ He sketched for six hours straight, producing the initial FRACTURESIGHT schemati
 **Key Collaborators:**
 - **[[Spencer Kordell]]**: Provided pattern recognition algorithms for sigil identification
 - **[[Kaelen Thorne]]**: Smuggled restricted quantum crystals from restricted labs
-- **[[Elara Vance]]**: Consulted on beast archetypal resonance frequencies
+- **[[Elara Vance Character Sheet]]**: Consulted on beast archetypal resonance frequencies
 - **[[Alexander Holmes Harukaza]]**: Contributed Quantum Tarot energy signature data
 
 **Critical Breakthrough (08:15 AM):**  
@@ -41785,7 +41785,7 @@ The Order views FRACTURESIGHT as **"crude mechanical approximation of sacred sig
 
 ### Astral Chorus
 **Status:** Synergistic Partnership  
-[[Selene Anastas]] and [[Elara Vance]] recognize FRACTURESIGHT as **technological counterpart to DREAMLENS** — both devices translate invisible realities into perceivable data. The Chorus provides archetypal resonance theory; Grant provides engineering implementation.
+[[Selene Anastas]] and [[Elara Vance Character Sheet]] recognize FRACTURESIGHT as **technological counterpart to DREAMLENS** — both devices translate invisible realities into perceivable data. The Chorus provides archetypal resonance theory; Grant provides engineering implementation.
 
 **Module Zeta** (Dreamscape Interface) emerged from this collaboration, allowing Grant to provide tactical support during Selene's oneiromantic investigations.
 
@@ -42009,7 +42009,7 @@ In this state, the geometry flares, sealing a beast into a stasis void where tim
 - Used only by high‑ranking Order operatives, it is whispered to contain entire **generations of bound beasts** in eternal exile.  
 - The Resistance views it as the **ultimate perversion of Logos** — life forced into infinite silence.  
 
-[[Elara Vance]] has described its aura as *“like an empty song that eats every note around it.”*  
+[[Elara Vance Character Sheet]] has described its aura as *“like an empty song that eats every note around it.”*  
 
 ---
 
@@ -42641,7 +42641,7 @@ tags:
 faction_usage:
   - "[[Aetherion_Society]]"
   - "[[Grant Sterling]]"
-  - "[[Order_of_the_Crimson_Flame]]"
+  - "[[🔥 House Pyraxis — The Crimson Flame]]"
   - "[[Order_of_the_Black_Cross]]"
 functionality:
   - Intent Translation — encodes surface neuro-patterns into beast-readable signal
@@ -42727,7 +42727,7 @@ tags:
   - aethertech
   - order-of-black-cross
 faction_usage:
-  - "[[House_Aetherion_Society]]"
+  - "[[⚙️ House Aetherion Society — The System Architects]]"
   - "[[Headmaster Alistair Finch]]"
   - "[[Kaelen (Kael) Thorne]]"
   - "[[Order of the Black Sun]]"
@@ -43178,8 +43178,8 @@ Unlike the Order’s [[PHYLAX_DATASET_SEMANTIC_MAPPER]], which reduces dreams to
 
 ### Crosslinks
 - Related Relics: [[SOULCIPHER_CORE]], [[HARMONIC_KEY]], [[AURORA_SIGIL]]  
-- Related Groups: [[House_Astral_Chorus]], [[Resistance_Logos]]  
-- Related Characters: [[Selene Anastas]], [[Elara Vance]]
+- Related Groups: [[🌙 House Astral Chorus]], [[Resistance_Logos]]  
+- Related Characters: [[Selene Anastas]], [[Elara Vance Character Sheet]]
 
 <!-- ================================================================== -->
 <!-- SOURCE: Relics_and_SigilTech\The Dark Hold.md -->
@@ -53120,7 +53120,7 @@ This document provides the complete narrative structure for the DeMarco/Sigmatix
   - Deep hidden guilt over Quantum Fracture
   - Pride prevents admitting fault
 - **Relationship Dynamics**:
-  - Makes [[Elara Vance]] (empath) deeply uncomfortable - she can feel his crushing guilt
+  - Makes [[Elara Vance Character Sheet]] (empath) deeply uncomfortable - she can feel his crushing guilt
   - [[Kaelen Thorne]] (defector) distrusts his "ends-justify-means" ambition
   - Intense rivalry with Alexander (envy disguised as philosophical opposition)
 
