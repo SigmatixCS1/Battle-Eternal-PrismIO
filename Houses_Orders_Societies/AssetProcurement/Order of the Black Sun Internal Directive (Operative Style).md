@@ -15,7 +15,6 @@ tags:
   - Sigmatix
   - Order
   - Procurement
-  - Order of the Black Sun
   - Furies
   - SClassAsset
   - BlackSun
@@ -28,6 +27,7 @@ Handlers:
     name: Dorian Halver (Initiate Architect)
   - role: Secondary Net
     name: Maris Elunai (Merkaba Adept)
+
 # Order of the Black Sun – Internal Directive
 
 **CLASSIFICATION:** S-CLASS // Order of the Black Sun INNER CIRCLE – FURIES OVERSIGHT  

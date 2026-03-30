@@ -8,77 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "109f4feceb9fe9bb",
+            "id": "3eb49fa3c946f9dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Corporate Entities/The Hidden War — Sable Dynamics vs The Order of the Black Sun.md",
+                "file": "Cosmology of Battle Eternal/Division Engine — Technical Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Hidden War — Sable Dynamics vs The Order of the Black Sun"
-            }
-          },
-          {
-            "id": "7fbcfdd974989b9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corporate Entities/Sable Dynamics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sable Dynamics"
-            }
-          },
-          {
-            "id": "695ca211643b56de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corporate Entities/Sin Eater System (SES).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sin Eater System (SES)"
-            }
-          },
-          {
-            "id": "7cfaec66eff4bdcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Performance of Sincerity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Performance of Sincerity"
-            }
-          },
-          {
-            "id": "e46a1cb46ef26232",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corporate Entities/🧠 THE POWER MAP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🧠 THE POWER MAP"
+              "title": "Division Engine — Technical Architecture"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,38 +219,44 @@
       "media-extended:Open external media": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false
+      "smart-connections:Smart Connections: Open random connection": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "68cd4164307cff80",
+  "active": "3eb49fa3c946f9dc",
   "lastOpenFiles": [
-    "The Performance of Sincerity.md",
-    "Corporate Entities/🧠 THE POWER MAP.md",
-    "knowledge_base/BATTLE_ETERNAL_CORPORATE_ENTITIES.md",
-    "Saint Radian Campus Hidden Map.md",
-    "Brand Pitch.md",
-    "Corporate Entities/Sin Eater System (SES).md",
-    "Corporate Entities/Sable Dynamics.md",
-    "Corporate Entities/Functionality Link Systems (FLS)  F-Link.md",
-    "Corporate Entities/The Hidden War — Sable Dynamics vs The Order of the Black Sun.md",
-    "Corporate Entities/Sable Dynamics — Boardroom Sequence.md",
-    "Saint Radian Power Hierarchy.md",
-    "Sigmatix's Notebook/Origin of Sigmatix 5.md",
-    "Corporate Entities",
-    "Sigmatix's Notebook/Origin of Sigmatix 4.md",
-    "Sigmatix's Notebook/Origin of Sigmatix 3.md",
-    "Sigmatix's Notebook/Origin of Sigmatix 2.md",
-    "Sigmatix's Notebook/Origin of Sigmatix.md",
-    "Houses_Orders_Societies/Sorting System the universe in algorithmic form.md",
-    "Houses_Orders_Societies/Saint Radian Houses.md",
-    "knowledge_base/BATTLE_ETERNAL_HOUSES_ORDERS_SOCIETIES.md",
-    "knowledge_base/BATTLE_ETERNAL_SAINT_RADIAN_HOUSES_AND_SORTING.md",
-    "Houses_Orders_Societies/Saint Radian - The Sorting Ceremony.md",
+    "Cosmology of Battle Eternal/Inscription Arcana.md",
+    "Houses_Orders_Societies/Battle Eternal - 01 The Axiom Trial.md",
+    "01 System/🎓 Saint Radian — Sorting Results.md",
+    "Houses_Orders_Societies/Saint Radian Campus Hidden Map.md",
+    "Houses_Orders_Societies/🜂 House Obsidian Glyphs — The Keepers of Inscribed Truth.md",
+    "Houses_Orders_Societies/🏛️ Saint Radian Houses.md",
+    "Houses_Orders_Societies/⚙️Aetherforge_Program.md",
+    "Houses_Orders_Societies/⚙️ House Aetherion Society — The System Architects.md",
     "Houses_Orders_Societies/🔥 House Pyraxis — The Crimson Flame.md",
-    "Houses_Orders_Societies/♾️ House Aeonis (or House of Eternal Soul).md",
-    "Houses_Orders_Societies/Geometricum_Order (Sacred Geometry Specialists).md",
-    "Houses_Orders_Societies/Order of the Black Sun.md",
     "Houses_Orders_Societies/🕶️House of the Liminal Veil — The Architects of Perception.md",
+    "Houses_Orders_Societies/🌙 House Astral Chorus.md",
+    "Houses_Orders_Societies/🏛️ House Dialectica.md",
+    "Houses_Orders_Societies/♾️ House Aeonis (or House of Eternal Soul).md",
+    "Corporate Entities/Functionality Link Systems (FLS)  F-Link.md",
+    "00 System/Saint Radian Dreamfield Breach Protocol.md",
+    "knowledge_base/Brand Pitch.md",
+    "Season Arcs/The Contract.md",
+    "Cosmology of Battle Eternal/The Primal Wilds Ecosystem Map.md",
+    "01 System/Saint Radian Power Hierarchy.md",
+    "Season Arcs/Battle Eternal — Season 2.md",
+    "01 System/The Performance of Sincerity.md",
+    "Sigmatix's Notebook/Sorting System the universe in algorithmic form.md",
+    "Houses_Orders_Societies/AssetProcurement/Order of the Black Sun Internal Directive (Operative Style).md",
+    "Houses_Orders_Societies/Saint Radian - The Sorting Ceremony.md",
+    "media/csalchemsy_Anime_image_of_Caelum_Virex_Aetherion_Society_heir_44eab066-8a91-4441-9a9a-de8a0d59ffd8_3.png",
+    "Corporate Entities/The Hidden War — Sable Dynamics vs The Order of the Black Sun.md",
+    "Character Sheets and Specs/Nyx Helverd - Character Sheet.md",
+    "media/csalchemsy_an_anime_image_scary-looking_manticore._With_a_lio_691d31d4-40f6-4074-b209-102f71a6ca26_1.png",
+    "media/photo_2026-02-02_22-54-51 1.jpg",
+    "media/photo_2026-02-02_22-55-15 1.jpg",
+    "Corporate Entities",
     "Sigmatix's Notebook",
     "media/Pasted image 20260322120002.png",
     "media/Pasted image 20260322114321.png",
@@ -315,11 +264,7 @@
     "media/Pasted image 20260322113513.png",
     "media/Pasted image 20260322113401.png",
     "media/Pasted image 20260322113206.png",
-    "media/Pasted image 20260322111610.png",
-    "media/Pasted image 20260322110708.png",
-    "media/Riven_Takar_The_Divine_Playwright_of_Saint_Radian__6.png",
     "Character Sheets and Specs",
-    "media/An_anime_image_of_Darius__2.png",
     "copilot/memory",
     "01 System",
     "The 2038 Covergence Event",

@@ -16,6 +16,8 @@ related_houses_orders:
 ---
 ## ⚙️ **Aetherion Heir — “The Architect of the New Canon”**
 
+![[csalchemsy_Anime_image_of_Caelum_Virex_Aetherion_Society_heir_44eab066-8a91-4441-9a9a-de8a0d59ffd8_3.png]]
+
 ---
 
 ## 🧩 **Entity Classification**

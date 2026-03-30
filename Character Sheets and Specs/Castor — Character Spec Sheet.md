@@ -5,9 +5,9 @@ status: production-locked
 last_updated: 2026-03-21
 primary_ref_images: [train-chamber-seated-orb-1, train-chamber-seated-orb-2, train-chamber-seated-orb-3]
 
-![[photo_2026-02-02_22-54-51.jpg]]
+![[photo_2026-02-02_22-54-51 1.jpg]]
 
-![[photo_2026-02-02_22-55-15.jpg]]
+![[photo_2026-02-02_22-55-15 1.jpg]]
 ## Core Identity
 - Full Name: Castor "Cas" Nightfall
 - Role: The Scales / The Silence Before the Verdict / Consequence Engine
