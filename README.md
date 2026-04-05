@@ -5,6 +5,8 @@ Battle Eternal is set in a world governed by **The Hegemony**, a one-world gover
 This repository serves as the **narrative design and character architecture hub**, housing scene scripts, character profiles, structural documents, and the AI-assisted Character Architect system.
 ## Repository Structure
 ```
+├── Battle Eternal Core Framework.md  # Tone & language rulebook — required reading for contributors
+├── 🧭 Battle Eternal — Team Workflow & AI Alignment Guide.md  # AI-assisted workflow guidelines
 ├── 00 System/                       # Production system templates and narrative engines
 │   ├── Battle Eternal Issue Zero - The World Before the Spark.md
 │   ├── Bound-to-Turn Mystery Engine.md
@@ -47,12 +49,14 @@ This repository serves as the **narrative design and character architecture hub*
 │   ├── ⚔️ Kaelen Thorne — Character Sheet.md
 │   └── Agent [Murnau/Vane/Wire/Krell] - Character Sheets.md
 ├── Corporate Entities/              # Corporate power structures and systems
+│   ├── 🏢 Corporate Hierarchies.md
 │   ├── Functionality Link Systems (FLS) F-Link.md
 │   ├── Sable Dynamics.md
 │   ├── Sable Dynamics — Boardroom Sequence.md
 │   ├── Sin Eater System (SES).md
 │   └── The Hidden War — Sable Dynamics vs The Order of the Black Sun.md
 ├── Houses_Orders_Societies/         # Saint Radian academy houses and orders
+│   ├── 🏛️ Houses Overview.md
 │   ├── Saint Radian Houses.md
 │   ├── Saint Radian - The Sorting Ceremony.md
 │   ├── Sorting System the universe in algorithmic form.md
@@ -68,6 +72,7 @@ This repository serves as the **narrative design and character architecture hub*
 │   └── AssetProcurement/
 │       └── Order of the Black Sun Internal Directive (Operative Style).md
 ├── Cosmology of Battle Eternal/     # Cosmology, prophecy, and mythic systems
+│   ├── 🧠 THE POWER MAP.md
 │   ├── Battle_Eternal_Unified_Cosmology.md
 │   ├── Black Sun Reality Engine.md
 │   ├── Dreamfield Cosmology — Concept Overview.md
@@ -78,28 +83,16 @@ This repository serves as the **narrative design and character architecture hub*
 │   ├── Structural Axis Map.md
 │   ├── Terra Trion Gate.md
 │   ├── The Five Omega Entities of Battle Eternal.md
-│   ├── The Hierarchy of Invisible Power.md
 │   ├── The Nemesis Pattern.md
 │   ├── The Spiral Codex.md
 │   ├── ☀️ Order of the Black Sun — True Hierarchy.md
 │   └── ⚔️ Pantheon War Escalation Map (Season 1–3).md
-├── Sigmatix's Notebook/             # Sigmatix origin stories and Spiral Codex entries
-│   ├── 📖 Sigmatix's Notebook — Entry The Spiral Recognition Event.md
-│   ├── Origin of Sigmatix [1–5].md
-│   ├── Section 1 - Spiral Codex.md
-│   └── Section 1 - Spiral Codex - Updated.md
 ├── Season Arcs/                     # Seasonal arc docs and escalation maps
 │   └── Sin-Eater Arc/
 │       ├── Corporate Hierarchy - F-Link to the Order of the Black Sun.md
 │       ├── Sin-Eater Arc - Narrative Storyline.md
 │       ├── Sin-Eater Arc — Definitive Storyline.md
 │       └── The Scapegoat Protocol - Sin-Eater Arc Overview.md
-├── Test Scenes/                     # Screenplay-format test scenes
-│   ├── 01–08 numbered scene scripts
-│   ├── ALEXANDER_DEMARCO_RIVALRY CONTRACT.md
-│   ├── darius_leone_turning_point.md
-│   ├── riven_humiliation_scenes.md
-│   └── selene_train_encounters.md
 ├── The 2038 Covergence Event/       # 2038 Convergence systems, F-Link, Nemesis, Spiral Codex
 │   ├── 2038 Convergence Event.md
 │   ├── F-Link Cosmological Interactive Map.md
@@ -109,16 +102,11 @@ This repository serves as the **narrative design and character architecture hub*
 │   ├── The First Spiral — Ancient Convergences.md
 │   └── The Furies — Governors of the Spiral.md
 ├── World Map and Atlas/             # Geography, factions, and institutional architecture
-│   ├── Global Power Factions.md
 │   ├── Planetary Control Architecture.md
 │   ├── Prophecy Timeline.md
-│   ├── Surface World.md
-│   ├── The Structural Role of the Houses, Orders, and Societies.md
-│   ├── World Atlas Global Prophecy System.md
 │   ├── BATTLE ETERNAL — MASTER COSMOLOGY MAP.md
 │   ├── BATTLE ETERNAL — GLOBAL DREAMFIELD MAP.md
-│   ├── BATTLE ETERNAL — FORBIDDEN EXPANSE MASTER MAP.md
-│   └── Continental World Map/       # Deep-dive notes per civilization region
+│   └── BATTLE ETERNAL — FORBIDDEN EXPANSE MASTER MAP.md
 ├── knowledge_base/                  # AI-ready consolidated reference documents
 │   ├── BATTLE_ETERNAL_CORPORATE_ENTITIES.md
 │   ├── BATTLE_ETERNAL_SAINT_RADIAN_HOUSES_AND_SORTING.md
@@ -132,7 +120,6 @@ This repository serves as the **narrative design and character architecture hub*
 ├── battle-eternal-character-architect/  # AI Character Architect skill and ICP references
 │   ├── SKILL.md
 │   └── references/                  # Gold-standard ICPs, roster, templates, QA schema
-├── scripts/                         # Conversion/consolidation scripts
 ├── media/                           # Visual and video assets
 └── copilot/                         # Research and conversation artifacts
 ```
@@ -201,5 +188,7 @@ The **5-Module ICP (Ideal Character Profile) Blueprint System** produces canon-l
 ## Tools & Workflow
 - **Obsidian** — primary vault editor for markdown content
 - **Character Architect** — AI-assisted ICP development agent (see `battle-eternal-character-architect/SKILL.md`)
+- **Team Workflow & AI Alignment Guide** — contributor onboarding and AI-use guidelines (see `🧭 Battle Eternal — Team Workflow & AI Alignment Guide.md`)
+- **Core Framework Rulebook** — tone and language rules to prevent "vibe coding" (see `Battle Eternal Core Framework.md`)
 ## License
 All content in this repository is original creative work. All rights reserved.

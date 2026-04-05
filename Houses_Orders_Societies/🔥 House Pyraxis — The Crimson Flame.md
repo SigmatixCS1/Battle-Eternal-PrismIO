@@ -15,20 +15,7 @@ tags:
   - order
   - lore
 ---
----
-title: House Pyraxis — The Crimson Flame
-type: house
-status: core
-tags:
-  - pyraxis
-  - crimson-flame
-  - willpower
-  - combustion
-  - saint-radian
-  - spiral-codex
-related_documents:
-  - Spiral Codex — Updated
-  - Houses of Saint Radian
+
 ---
 
 # 🔥 House Pyraxis — The Crimson Flame
